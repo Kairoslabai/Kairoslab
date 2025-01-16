@@ -1,0 +1,40 @@
+/* Estilos para la gráfica */
+#grafica-container {
+    width: 100%;
+    height: 400px;
+    margin-top: 20px; /* Espacio entre el menú y la gráfica */
+  }
+  
+  #deepseekResponse {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    border-radius: 4px;
+    max-width: 800px;
+  }
+  
+  /* Estilos adicionales para el contenido formateado */
+  .deepseek-response {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+  }
+  
+  .deepseek-response h3 {
+      color: #333;
+      margin-bottom: 10px;
+  }
+  
+  .deepseek-response strong {
+      font-weight: bold;
+      color: #007BFF;
+  }
+  
+  .deepseek-response ul {
+      margin-left: 20px;
+      list-style-type: disc;
+  }
+  
+  .deepseek-response li {
+      margin-bottom: 5px;
+  }

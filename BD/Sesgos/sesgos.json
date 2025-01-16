@@ -1,0 +1,124 @@
+{
+  "respuesta": {
+    "introduccion": {
+      "es": "Los sesgos cognitivos son errores sistemáticos en el pensamiento que afectan la toma de decisiones y la percepción de la realidad. Estos sesgos son comunes en todas las culturas y contextos.",
+      "en": "Cognitive biases are systematic errors in thinking that affect decision-making and the perception of reality. These biases are common across all cultures and contexts."
+    },
+    "sesgos": [
+      {
+        "nombre": {
+          "es": "Sesgo de confirmación",
+          "en": "Confirmation Bias"
+        },
+        "descripcion": {
+          "es": "Tendencia a buscar, interpretar y recordar información que confirma las propias creencias o hipótesis, ignorando o desestimando evidencia contraria.",
+          "en": "The tendency to seek, interpret, and remember information that confirms one’s own beliefs or hypotheses, ignoring or dismissing conflicting evidence."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Efecto de anclaje",
+          "en": "Anchoring Bias"
+        },
+        "descripcion": {
+          "es": "Tendencia a depender demasiado en la primera información recibida (el 'ancla') al tomar decisiones, incluso cuando esa información es irrelevante o engañosa.",
+          "en": "The tendency to rely too heavily on the first piece of information encountered (the 'anchor') when making decisions, even when that information is irrelevant or misleading."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Sesgo de disponibilidad",
+          "en": "Availability Bias"
+        },
+        "descripcion": {
+          "es": "Tendencia a sobreestimar la probabilidad de eventos basándose en ejemplos que vienen fácilmente a la mente, generalmente porque son recientes, emocionalmente impactantes o ampliamente difundidos.",
+          "en": "The tendency to overestimate the likelihood of events based on examples that come easily to mind, often because they are recent, emotionally impactful, or widely publicized."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Sesgo de escasez",
+          "en": "Scarcity Bias"
+        },
+        "descripcion": {
+          "es": "La percepción de que algo es escaso o limitado aumenta su valor percibido. Las ofertas de tiempo limitado y las ediciones especiales son tácticas comunes que aprovechan este sesgo.",
+          "en": "The perception that something is rare or limited increases its perceived value. Limited-time offers and special editions are common tactics that leverage this bias."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Sesgo de autoridad",
+          "en": "Authority Bias"
+        },
+        "descripcion": {
+          "es": "Tendencia a atribuir mayor credibilidad o valor a las opiniones o decisiones de figuras de autoridad, independientemente de su contenido.",
+          "en": "The tendency to attribute greater credibility or value to the opinions or decisions of authority figures, regardless of their content."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Sesgo de reciprocidad",
+          "en": "Reciprocity Bias"
+        },
+        "descripcion": {
+          "es": "Las personas sienten la necesidad de devolver favores o regalos. Las muestras gratuitas y los regalos promocionales son estrategias que utilizan este sesgo para fomentar la compra.",
+          "en": "People feel the need to return favors or gifts. Free samples and promotional gifts are strategies that leverage this bias to encourage purchasing."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Sesgo de coherencia",
+          "en": "Commitment Bias"
+        },
+        "descripcion": {
+          "es": "Las personas prefieren ser consistentes con sus compromisos y comportamientos pasados. Las suscripciones y los programas de fidelización son ejemplos de cómo se utiliza este sesgo para mantener a los clientes comprometidos.",
+          "en": "People prefer to be consistent with their past commitments and behaviors. Subscriptions and loyalty programs are examples of how this bias is used to keep customers engaged."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Sesgo de aversión a la pérdida",
+          "en": "Loss Aversion Bias"
+        },
+        "descripcion": {
+          "es": "Las personas tienden a preferir evitar pérdidas en lugar de adquirir ganancias equivalentes. Las garantías de devolución de dinero y las políticas de devolución sin preguntas son tácticas que utilizan este sesgo.",
+          "en": "People tend to prefer avoiding losses over acquiring equivalent gains. Money-back guarantees and no-questions-asked return policies are tactics that use this bias."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Sesgo de efecto halo",
+          "en": "Halo Effect Bias"
+        },
+        "descripcion": {
+          "es": "La percepción positiva de un atributo de un producto o marca puede influir en la percepción de otros atributos.",
+          "en": "A positive perception of one attribute of a product or brand can influence the perception of other attributes."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Sesgo de efecto de arrastre (o efecto bandwagon)",
+          "en": "Bandwagon Effect Bias"
+        },
+        "descripcion": {
+          "es": "Las personas tienden a hacer algo principalmente porque otras personas lo están haciendo. Las reseñas de clientes, los testimonios y las listas de 'más vendidos' son formas de aprovechar este sesgo.",
+          "en": "People tend to do something mainly because others are doing it. Customer reviews, testimonials, and 'bestseller' lists are ways to capitalize on this bias."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Sesgo de efecto de halo",
+          "en": "Halo Effect Bias"
+        },
+        "descripcion": {
+          "es": "La tendencia a generalizar una impresión positiva o negativa de una persona en un área a otras áreas de su personalidad o desempeño.",
+          "en": "The tendency to generalize a positive or negative impression of a person in one area to other areas of their personality or performance."
+        }
+      }
+    ],
+    "conclusion": {
+      "es": "Estos sesgos son universales y pueden influir en decisiones cotidianas, juicios sociales, políticas públicas y comportamientos económicos. Reconocerlos es el primer paso para mitigar su impacto y tomar decisiones más racionales y equilibradas.",
+      "en": "These biases are universal and can influence everyday decisions, social judgments, public policies, and economic behaviors. Recognizing them is the first step to mitigating their impact and making more rational and balanced decisions."
+    }
+  }
+}

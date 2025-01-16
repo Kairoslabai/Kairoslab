@@ -1,0 +1,892 @@
+{
+    "countries": [
+        {
+            "id": "AL",
+            "name": {
+                "en": "Albania",
+                "es": "Albania"
+            },
+            "description": "ISO 3166-2 code: AL"
+        },
+        {
+            "id": "DZ",
+            "name": {
+                "en": "Algeria",
+                "es": "Argelia"
+            },
+            "description": "ISO 3166-2 code: DZ"
+        },
+        {
+            "id": "AO",
+            "name": {
+                "en": "Angola",
+                "es": "Angola"
+            },
+            "description": "ISO 3166-2 code: AO"
+        },
+        {
+            "id": "AR",
+            "name": {
+                "en": "Argentina",
+                "es": "Argentina"
+            },
+            "description": "ISO 3166-2 code: AR"
+        },
+        {
+            "id": "AM",
+            "name": {
+                "en": "Armenia",
+                "es": "Armenia"
+            },
+            "description": "ISO 3166-2 code: AM"
+        },
+        {
+            "id": "AU",
+            "name": {
+                "en": "Australia",
+                "es": "Australia"
+            },
+            "description": "ISO 3166-2 code: AU"
+        },
+        {
+            "id": "AT",
+            "name": {
+                "en": "Austria",
+                "es": "Austria"
+            },
+            "description": "ISO 3166-2 code: AT"
+        },
+        {
+            "id": "AZ",
+            "name": {
+                "en": "Azerbaijan",
+                "es": "Azerbaiyán"
+            },
+            "description": "ISO 3166-2 code: AZ"
+        },
+        {
+            "id": "BD",
+            "name": {
+                "en": "Bangladesh",
+                "es": "Bangladés"
+            },
+            "description": "ISO 3166-2 code: BD"
+        },
+        {
+            "id": "BY",
+            "name": {
+                "en": "Belarus",
+                "es": "Bielorrusia"
+            },
+            "description": "ISO 3166-2 code: BY"
+        },
+        {
+            "id": "BE",
+            "name": {
+                "en": "Belgium",
+                "es": "Bélgica"
+            },
+            "description": "ISO 3166-2 code: BE"
+        },
+        {
+            "id": "BT",
+            "name": {
+                "en": "Bhutan",
+                "es": "Bután"
+            },
+            "description": "ISO 3166-2 code: BT"
+        },
+        {
+            "id": "BO",
+            "name": {
+                "en": "Bolivia",
+                "es": "Bolivia"
+            },
+            "description": "ISO 3166-2 code: BO"
+        },
+        {
+            "id": "BA",
+            "name": {
+                "en": "Bosnia and Herzegovina",
+                "es": "Bosnia y Herzegovina"
+            },
+            "description": "ISO 3166-2 code: BA"
+        },
+        {
+            "id": "BR",
+            "name": {
+                "en": "Brazil",
+                "es": "Brasil"
+            },
+            "description": "ISO 3166-2 code: BR"
+        },
+        {
+            "id": "BG",
+            "name": {
+                "en": "Bulgaria",
+                "es": "Bulgaria"
+            },
+            "description": "ISO 3166-2 code: BG"
+        },
+        {
+            "id": "BF",
+            "name": {
+                "en": "Burkina Faso",
+                "es": "Burkina Faso"
+            },
+            "description": "ISO 3166-2 code: BF"
+        },
+        {
+            "id": "CA",
+            "name": {
+                "en": "Canada",
+                "es": "Canadá"
+            },
+            "description": "ISO 3166-2 code: CA"
+        },
+        {
+            "id": "CV",
+            "name": {
+                "en": "Cape Verde",
+                "es": "Cabo Verde"
+            },
+            "description": "ISO 3166-2 code: CV"
+        },
+        {
+            "id": "CL",
+            "name": {
+                "en": "Chile",
+                "es": "Chile"
+            },
+            "description": "ISO 3166-2 code: CL"
+        },
+        {
+            "id": "CN",
+            "name": {
+                "en": "China",
+                "es": "China"
+            },
+            "description": "ISO 3166-2 code: CN"
+        },
+        {
+            "id": "CO",
+            "name": {
+                "en": "Colombia",
+                "es": "Colombia"
+            },
+            "description": "ISO 3166-2 code: CO"
+        },
+        {
+            "id": "CR",
+            "name": {
+                "en": "Costa Rica",
+                "es": "Costa Rica"
+            },
+            "description": "ISO 3166-2 code: CR"
+        },
+        {
+            "id": "HR",
+            "name": {
+                "en": "Croatia",
+                "es": "Croacia"
+            },
+            "description": "ISO 3166-2 code: HR"
+        },
+        {
+            "id": "CZ",
+            "name": {
+                "en": "Czech Republic",
+                "es": "República Checa"
+            },
+            "description": "ISO 3166-2 code: CZ"
+        },
+        {
+            "id": "DK",
+            "name": {
+                "en": "Denmark",
+                "es": "Dinamarca"
+            },
+            "description": "ISO 3166-2 code: DK"
+        },
+        {
+            "id": "DO",
+            "name": {
+                "en": "Dominican Republic",
+                "es": "República Dominicana"
+            },
+            "description": "ISO 3166-2 code: DO"
+        },
+        {
+            "id": "EC",
+            "name": {
+                "en": "Ecuador",
+                "es": "Ecuador"
+            },
+            "description": "ISO 3166-2 code: EC"
+        },
+        {
+            "id": "EG",
+            "name": {
+                "en": "Egypt",
+                "es": "Egipto"
+            },
+            "description": "ISO 3166-2 code: EG"
+        },
+        {
+            "id": "SV",
+            "name": {
+                "en": "El Salvador",
+                "es": "El Salvador"
+            },
+            "description": "ISO 3166-2 code: SV"
+        },
+        {
+            "id": "EE",
+            "name": {
+                "en": "Estonia",
+                "es": "Estonia"
+            },
+            "description": "ISO 3166-2 code: EE"
+        },
+        {
+            "id": "ET",
+            "name": {
+                "en": "Ethiopia",
+                "es": "Etiopía"
+            },
+            "description": "ISO 3166-2 code: ET"
+        },
+        {
+            "id": "FJ",
+            "name": {
+                "en": "Fiji",
+                "es": "Fiyi"
+            },
+            "description": "ISO 3166-2 code: FJ"
+        },
+        {
+            "id": "FI",
+            "name": {
+                "en": "Finland",
+                "es": "Finlandia"
+            },
+            "description": "ISO 3166-2 code: FI"
+        },
+        {
+            "id": "FR",
+            "name": {
+                "en": "France",
+                "es": "Francia"
+            },
+            "description": "ISO 3166-2 code: FR"
+        },
+        {
+            "id": "GE",
+            "name": {
+                "en": "Georgia",
+                "es": "Georgia"
+            },
+            "description": "ISO 3166-2 code: GE"
+        },
+        {
+            "id": "DE",
+            "name": {
+                "en": "Germany",
+                "es": "Alemania"
+            },
+            "description": "ISO 3166-2 code: DE"
+        },
+        {
+            "id": "GH",
+            "name": {
+                "en": "Ghana",
+                "es": "Ghana"
+            },
+            "description": "ISO 3166-2 code: GH"
+        },
+        {
+            "id": "GR",
+            "name": {
+                "en": "Greece",
+                "es": "Grecia"
+            },
+            "description": "ISO 3166-2 code: GR"
+        },
+        {
+            "id": "GT",
+            "name": {
+                "en": "Guatemala",
+                "es": "Guatemala"
+            },
+            "description": "ISO 3166-2 code: GT"
+        },
+        {
+            "id": "HN",
+            "name": {
+                "en": "Honduras",
+                "es": "Honduras"
+            },
+            "description": "ISO 3166-2 code: HN"
+        },
+        {
+            "id": "HK",
+            "name": {
+                "en": "Hong Kong",
+                "es": "Hong Kong"
+            },
+            "description": "ISO 3166-2 code: HK"
+        },
+        {
+            "id": "HU",
+            "name": {
+                "en": "Hungary",
+                "es": "Hungría"
+            },
+            "description": "ISO 3166-2 code: HU"
+        },
+        {
+            "id": "IS",
+            "name": {
+                "en": "Iceland",
+                "es": "Islandia"
+            },
+            "description": "ISO 3166-2 code: IS"
+        },
+        {
+            "id": "IN",
+            "name": {
+                "en": "India",
+                "es": "India"
+            },
+            "description": "ISO 3166-2 code: IN"
+        },
+        {
+            "id": "ID",
+            "name": {
+                "en": "Indonesia",
+                "es": "Indonesia"
+            },
+            "description": "ISO 3166-2 code: ID"
+        },
+        {
+            "id": "IR",
+            "name": {
+                "en": "Iran",
+                "es": "Irán"
+            },
+            "description": "ISO 3166-2 code: IR"
+        },
+        {
+            "id": "IQ",
+            "name": {
+                "en": "Iraq",
+                "es": "Irak"
+            },
+            "description": "ISO 3166-2 code: IQ"
+        },
+        {
+            "id": "IE",
+            "name": {
+                "en": "Ireland",
+                "es": "Irlanda"
+            },
+            "description": "ISO 3166-2 code: IE"
+        },
+        {
+            "id": "IL",
+            "name": {
+                "en": "Israel",
+                "es": "Israel"
+            },
+            "description": "ISO 3166-2 code: IL"
+        },
+        {
+            "id": "IT",
+            "name": {
+                "en": "Italy",
+                "es": "Italia"
+            },
+            "description": "ISO 3166-2 code: IT"
+        },
+        {
+            "id": "JM",
+            "name": {
+                "en": "Jamaica",
+                "es": "Jamaica"
+            },
+            "description": "ISO 3166-2 code: JM"
+        },
+        {
+            "id": "JP",
+            "name": {
+                "en": "Japan",
+                "es": "Japón"
+            },
+            "description": "ISO 3166-2 code: JP"
+        },
+        {
+            "id": "JO",
+            "name": {
+                "en": "Jordan",
+                "es": "Jordania"
+            },
+            "description": "ISO 3166-2 code: JO"
+        },
+        {
+            "id": "KZ",
+            "name": {
+                "en": "Kazakhstan",
+                "es": "Kazajistán"
+            },
+            "description": "ISO 3166-2 code: KZ"
+        },
+        {
+            "id": "KE",
+            "name": {
+                "en": "Kenya",
+                "es": "Kenia"
+            },
+            "description": "ISO 3166-2 code: KE"
+        },
+        {
+            "id": "KW",
+            "name": {
+                "en": "Kuwait",
+                "es": "Kuwait"
+            },
+            "description": "ISO 3166-2 code: KW"
+        },
+        {
+            "id": "LV",
+            "name": {
+                "en": "Latvia",
+                "es": "Letonia"
+            },
+            "description": "ISO 3166-2 code: LV"
+        },
+        {
+            "id": "LB",
+            "name": {
+                "en": "Lebanon",
+                "es": "Líbano"
+            },
+            "description": "ISO 3166-2 code: LB"
+        },
+        {
+            "id": "LY",
+            "name": {
+                "en": "Libya",
+                "es": "Libia"
+            },
+            "description": "ISO 3166-2 code: LY"
+        },
+        {
+            "id": "LT",
+            "name": {
+                "en": "Lithuania",
+                "es": "Lituania"
+            },
+            "description": "ISO 3166-2 code: LT"
+        },
+        {
+            "id": "LU",
+            "name": {
+                "en": "Luxembourg",
+                "es": "Luxemburgo"
+            },
+            "description": "ISO 3166-2 code: LU"
+        },
+        {
+            "id": "MW",
+            "name": {
+                "en": "Malawi",
+                "es": "Malawi"
+            },
+            "description": "ISO 3166-2 code: MW"
+        },
+        {
+            "id": "MY",
+            "name": {
+                "en": "Malaysia",
+                "es": "Malasia"
+            },
+            "description": "ISO 3166-2 code: MY"
+        },
+        {
+            "id": "MT",
+            "name": {
+                "en": "Malta",
+                "es": "Malta"
+            },
+            "description": "ISO 3166-2 code: MT"
+        },
+        {
+            "id": "MX",
+            "name": {
+                "en": "Mexico",
+                "es": "México"
+            },
+            "description": "ISO 3166-2 code: MX"
+        },
+        {
+            "id": "MD",
+            "name": {
+                "en": "Moldova",
+                "es": "Moldavia"
+            },
+            "description": "ISO 3166-2 code: MD"
+        },
+        {
+            "id": "ME",
+            "name": {
+                "en": "Montenegro",
+                "es": "Montenegro"
+            },
+            "description": "ISO 3166-2 code: ME"
+        },
+        {
+            "id": "MA",
+            "name": {
+                "en": "Morocco",
+                "es": "Marruecos"
+            },
+            "description": "ISO 3166-2 code: MA"
+        },
+        {
+            "id": "MZ",
+            "name": {
+                "en": "Mozambique",
+                "es": "Mozambique"
+            },
+            "description": "ISO 3166-2 code: MZ"
+        },
+        {
+            "id": "NA",
+            "name": {
+                "en": "Namibia",
+                "es": "Namibia"
+            },
+            "description": "ISO 3166-2 code: NA"
+        },
+        {
+            "id": "NP",
+            "name": {
+                "en": "Nepal",
+                "es": "Nepal"
+            },
+            "description": "ISO 3166-2 code: NP"
+        },
+        {
+            "id": "NL",
+            "name": {
+                "en": "Netherlands",
+                "es": "Países Bajos"
+            },
+            "description": "ISO 3166-2 code: NL"
+        },
+        {
+            "id": "NZ",
+            "name": {
+                "en": "New Zealand",
+                "es": "Nueva Zelanda"
+            },
+            "description": "ISO 3166-2 code: NZ"
+        },
+        {
+            "id": "NG",
+            "name": {
+                "en": "Nigeria",
+                "es": "Nigeria"
+            },
+            "description": "ISO 3166-2 code: NG"
+        },
+        {
+            "id": "MK",
+            "name": {
+                "en": "North Macedonia",
+                "es": "Macedonia del Norte"
+            },
+            "description": "ISO 3166-2 code: MK"
+        },
+        {
+            "id": "NO",
+            "name": {
+                "en": "Norway",
+                "es": "Noruega"
+            },
+            "description": "ISO 3166-2 code: NO"
+        },
+        {
+            "id": "PK",
+            "name": {
+                "en": "Pakistan",
+                "es": "Pakistán"
+            },
+            "description": "ISO 3166-2 code: PK"
+        },
+        {
+            "id": "PA",
+            "name": {
+                "en": "Panama",
+                "es": "Panamá"
+            },
+            "description": "ISO 3166-2 code: PA"
+        },
+        {
+            "id": "PY",
+            "name": {
+                "en": "Paraguay",
+                "es": "Paraguay"
+            },
+            "description": "ISO 3166-2 code: PY"
+        },
+        {
+            "id": "PE",
+            "name": {
+                "en": "Peru",
+                "es": "Perú"
+            },
+            "description": "ISO 3166-2 code: PE"
+        },
+        {
+            "id": "PH",
+            "name": {
+                "en": "Philippines",
+                "es": "Filipinas"
+            },
+            "description": "ISO 3166-2 code: PH"
+        },
+        {
+            "id": "PL",
+            "name": {
+                "en": "Poland",
+                "es": "Polonia"
+            },
+            "description": "ISO 3166-2 code: PL"
+        },
+        {
+            "id": "PT",
+            "name": {
+                "en": "Portugal",
+                "es": "Portugal"
+            },
+            "description": "ISO 3166-2 code: PT"
+        },
+        {
+            "id": "PR",
+            "name": {
+                "en": "Puerto Rico",
+                "es": "Puerto Rico"
+            },
+            "description": "ISO 3166-2 code: PR"
+        },
+        {
+            "id": "QA",
+            "name": {
+                "en": "Qatar",
+                "es": "Qatar"
+            },
+            "description": "ISO 3166-2 code: QA"
+        },
+        {
+            "id": "RO",
+            "name": {
+                "en": "Romania",
+                "es": "Rumanía"
+            },
+            "description": "ISO 3166-2 code: RO"
+        },
+        {
+            "id": "RU",
+            "name": {
+                "en": "Russia",
+                "es": "Rusia"
+            },
+            "description": "ISO 3166-2 code: RU"
+        },
+        {
+            "id": "SA",
+            "name": {
+                "en": "Saudi Arabia",
+                "es": "Arabia Saudita"
+            },
+            "description": "ISO 3166-2 code: SA"
+        },
+        {
+            "id": "SN",
+            "name": {
+                "en": "Senegal",
+                "es": "Senegal"
+            },
+            "description": "ISO 3166-2 code: SN"
+        },
+        {
+            "id": "RS",
+            "name": {
+                "en": "Serbia",
+                "es": "Serbia"
+            },
+            "description": "ISO 3166-2 code: RS"
+        },
+        {
+            "id": "SL",
+            "name": {
+                "en": "Sierra Leone",
+                "es": "Sierra Leona"
+            },
+            "description": "ISO 3166-2 code: SL"
+        },
+        {
+            "id": "SG",
+            "name": {
+                "en": "Singapore",
+                "es": "Singapur"
+            },
+            "description": "ISO 3166-2 code: SG"
+        },
+        {
+            "id": "SK",
+            "name": {
+                "en": "Slovakia",
+                "es": "Eslovaquia"
+            },
+            "description": "ISO 3166-2 code: SK"
+        },
+        {
+            "id": "SI",
+            "name": {
+                "en": "Slovenia",
+                "es": "Eslovenia"
+            },
+            "description": "ISO 3166-2 code: SI"
+        },
+        {
+            "id": "ZA",
+            "name": {
+                "en": "South Africa",
+                "es": "Sudáfrica"
+            },
+            "description": "ISO 3166-2 code: ZA"
+        },
+        {
+            "id": "KR",
+            "name": {
+                "en": "South Korea",
+                "es": "Corea del Sur"
+            },
+            "description": "ISO 3166-2 code: KR"
+        },
+        {
+            "id": "ES",
+            "name": {
+                "en": "Spain",
+                "es": "España"
+            },
+            "description": "ISO 3166-2 code: ES"
+        },
+        {
+            "id": "LK",
+            "name": {
+                "en": "Sri Lanka",
+                "es": "Sri Lanka"
+            },
+            "description": "ISO 3166-2 code: LK"
+        },
+        {
+            "id": "TT",
+            "name": {
+                "en": "Trinidad and Tobago",
+                "es": "Trinidad y Tobago"
+            },
+            "description": "ISO 3166-2 code: TT"
+        },
+        {
+            "id": "TN",
+            "name": {
+                "en": "Tunisia",
+                "es": "Túnez"
+            },
+            "description": "ISO 3166-2 code: TN"
+        },
+        {
+            "id": "TR",
+            "name": {
+                "en": "Turkey",
+                "es": "Turquía"
+            },
+            "description": "ISO 3166-2 code: TR"
+        },
+        {
+            "id": "UA",
+            "name": {
+                "en": "Ukraine",
+                "es": "Ucrania"
+            },
+            "description": "ISO 3166-2 code: UA"
+        },
+        {
+            "id": "AE",
+            "name": {
+                "en": "United Arab Emirates",
+                "es": "Emiratos Árabes Unidos"
+            },
+            "description": "ISO 3166-2 code: AE"
+        },
+        {
+            "id": "GB",
+            "name": {
+                "en": "United Kingdom",
+                "es": "Reino Unido"
+            },
+            "description": "ISO 3166-2 code: GB"
+        },
+        {
+            "id": "US",
+            "name": {
+                "en": "United States",
+                "es": "Estados Unidos"
+            },
+            "description": "ISO 3166-2 code: US"
+        },
+        {
+            "id": "UY",
+            "name": {
+                "en": "Uruguay",
+                "es": "Uruguay"
+            },
+            "description": "ISO 3166-2 code: UY"
+        },
+        {
+            "id": "VE",
+            "name": {
+                "en": "Venezuela",
+                "es": "Venezuela"
+            },
+            "description": "ISO 3166-2 code: VE"
+        },
+        {
+            "id": "VN",
+            "name": {
+                "en": "Vietnam",
+                "es": "Vietnam"
+            },
+            "description": "ISO 3166-2 code: VN"
+        },
+        {
+            "id": "ZM",
+            "name": {
+                "en": "Zambia",
+                "es": "Zambia"
+            },
+            "description": "ISO 3166-2 code: ZM"
+        },
+        {
+            "id": "MN",
+            "name": {
+                "en": "Mongolia",
+                "es": "Mongolia"
+            },
+            "description": "ISO 3166-2 code: MN"
+        }
+    ]
+}

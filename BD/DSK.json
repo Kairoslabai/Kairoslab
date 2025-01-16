@@ -1,0 +1,14 @@
+{
+  "deepseek": {
+    "apiKey": "sk-108394a9c75b4cc7b967d85f29371075",
+    "apiUrl": "https://api.deepseek.com/v1/chat/completions"
+  },
+  "gemini": {
+    "apiKey": "AIzaSyAtQYZTcIOKKxnHQ9xn5OTYXYipBzTqURY",
+    "apiUrl": "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key="
+  },
+  "core": {
+    "apiKey": "Db8mQKd1FVHhNuJzvorxSj3TMyB7qO",
+    "apiUrl": "https://api.core.ac.uk/v3/search/works"
+  }
+}

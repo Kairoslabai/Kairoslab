@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+#cultura-pais {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#resultados {
+    margin-top: 20px;
+}
+
+.grafica-container {
+    width: 100%;
+    height: 600px; /* Ajusta el tamaño según tus necesidades */
+    border: 1px solid #ddd;
+    background: #fff;
+    margin-bottom: 20px;
+  }
+
+  

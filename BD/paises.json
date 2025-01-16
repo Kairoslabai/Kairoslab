@@ -1,0 +1,2812 @@
+{
+	"countries": [
+		{
+			"id": "AL",
+			"name": {
+				"en": "Albania",
+				"es": "Albania"
+			},
+			"description": "ISO 3166-2 code: AL",
+			"dimensiones": {
+				"Distancia de Poder": 90,
+				"Individualismo": 27,
+				"Motivación hacia el Logro": 80,
+				"Evitación de Incertidumbre": 70,
+				"Orientación a Largo Plazo": 56,
+				"Indulgencia": 15
+			},
+			"explicación": {
+				"Distancia de Poder": "Albania es una sociedad jerárquica donde se acepta el orden jerárquico sin justificación.",
+				"Individualismo": "Es una sociedad colectivista, con fuerte lealtad al grupo.",
+				"Motivación hacia el Logro": "Se ve como una sociedad centrada en logros y resultados.",
+				"Evitación de Incertidumbre": "Alta preferencia por evitar la incertidumbre y por reglas rígidas.",
+				"Orientación a Largo Plazo": "Pragmáticos, adaptan tradiciones según el contexto.",
+				"Indulgencia": "Tienen una tendencia a la restricción y al control de deseos."
+			}
+		},
+		{
+			"id": "DZ",
+			"name": {
+				"en": "Algeria",
+				"es": "Argelia"
+			},
+			"description": "ISO 3166-2 code: DZ",
+			"dimensiones": {
+				"Distancia de Poder": 80,
+				"Individualismo": 29,
+				"Motivación hacia el Logro": 35,
+				"Evitación de Incertidumbre": 70,
+				"Orientación a Largo Plazo": 25,
+				"Indulgencia": 32
+			},
+			"explicación": {
+				"Distancia de Poder": "La sociedad acepta un orden jerárquico con desigualdades inherentes.",
+				"Individualismo": "Cultura colectivista con compromiso al grupo.",
+				"Motivación hacia el Logro": "Poca motivación hacia el logro individual.",
+				"Evitación de Incertidumbre": "Resistencia al cambio y aversión al riesgo.",
+				"Orientación a Largo Plazo": "Cultura normativa, respeto por las tradiciones.",
+				"Indulgencia": "Una cultura de restricción y control sobre el tiempo libre."
+			}
+		},
+		{
+			"id": "AO",
+			"name": {
+				"en": "Angola",
+				"es": "Angola"
+			},
+			"description": "ISO 3166-2 code: AO",
+			"dimensiones": {
+				"Distancia de Poder": 83,
+				"Individualismo": 18,
+				"Motivación hacia el Logro": 20,
+				"Evitación de Incertidumbre": 60,
+				"Orientación a Largo Plazo": 15,
+				"Indulgencia": 83
+			},
+			"explicación": {
+				"Distancia de Poder": "Sociedad jerárquica con desigualdades significativas.",
+				"Individualismo": "Baja puntuación indica un fuerte colectivismo.",
+				"Motivación hacia el Logro": "Poca motivación hacia el logro individual.",
+				"Evitación de Incertidumbre": "Prefieren reglas rígidas para reducir incertidumbres.",
+				"Orientación a Largo Plazo": "Cultura normativa, enfoque en la verdad absoluta.",
+				"Indulgencia": "Alto nivel de indulgencia, disfrutan de la vida y la diversión."
+			}
+		},
+		{
+			"id": "AR",
+			"name": {
+				"en": "Argentina",
+				"es": "Argentina"
+			},
+			"description": "ISO 3166-2 code: AR",
+			"dimensiones": {
+				"Distancia de Poder": 49,
+				"Individualismo": 51,
+				"Motivación hacia el Logro": 56,
+				"Evitación de Incertidumbre": 86,
+				"Orientación a Largo Plazo": 29,
+				"Indulgencia": 62
+			},
+			"explicación": {
+				"Distancia de Poder": "Baja puntuación indica mayor igualdad en la sociedad.",
+				"Individualismo": "Equilibrio entre individualismo y colectivismo.",
+				"Motivación hacia el Logro": "Enfocados en logros y competencia en el trabajo.",
+				"Evitación de Incertidumbre": "Alta preferencia por reglas y seguridad legal.",
+				"Orientación a Largo Plazo": "Enfoque en resultados rápidos en lugar de ahorros a largo plazo.",
+				"Indulgencia": "Alta puntuación en indulgencia, disfrutan de la vida."
+			}
+		},
+		{
+			"id": "AM",
+			"name": {
+				"en": "Armenia",
+				"es": "Armenia"
+			},
+			"description": "ISO 3166-2 code: AM",
+			"dimensiones": {
+				"Distancia de Poder": 85,
+				"Individualismo": 17,
+				"Motivación hacia el Logro": 50,
+				"Evitación de Incertidumbre": 88,
+				"Orientación a Largo Plazo": 38,
+				"Indulgencia": 25
+			},
+			"explicación": {
+				"Distancia de Poder": "Alto nivel de jerarquía en la sociedad.",
+				"Individualismo": "Baja puntuación indica fuerte colectivismo.",
+				"Motivación hacia el Logro": "Puntuación intermedia, equilibrio entre logro y consenso.",
+				"Evitación de Incertidumbre": "Alta necesidad de evitar ambigüedad.",
+				"Orientación a Largo Plazo": "Cultura normativa, respeto a tradiciones.",
+				"Indulgencia": "Sociedad restrictiva con control sobre deseos."
+			}
+		},
+		{
+			"id": "AU",
+			"name": {
+				"en": "Australia",
+				"es": "Australia"
+			},
+			"description": "ISO 3166-2 code: AU",
+			"dimensiones": {
+				"Distancia de Poder": 38,
+				"Individualismo": 73,
+				"Motivación hacia el Logro": 61,
+				"Evitación de Incertidumbre": 51,
+				"Orientación a Largo Plazo": 56,
+				"Indulgencia": 71
+			},
+			"explicación": {
+				"Distancia de Poder": "Baja jerarquía, se valora la accesibilidad.",
+				"Individualismo": "Sociedad altamente individualista.",
+				"Motivación hacia el Logro": "Se valoran los logros y el desempeño.",
+				"Evitación de Incertidumbre": "Intermedia con flexibilidad ante el cambio.",
+				"Orientación a Largo Plazo": "Enfoque pragmático, adaptabilidad a nuevas circunstancias.",
+				"Indulgencia": "Alta puntuación en indulgencia, enfoque en la diversión."
+			}
+		},
+		{
+			"id": "AT",
+			"name": {
+				"en": "Austria",
+				"es": "Austria"
+			},
+			"description": "ISO 3166-2 code: AT",
+			"dimensiones": {
+				"Distancia de Poder": 11,
+				"Individualismo": 77,
+				"Motivación hacia el Logro": 79,
+				"Evitación de Incertidumbre": 70,
+				"Orientación a Largo Plazo": 47,
+				"Indulgencia": 63
+			},
+			"explicación": {
+				"Distancia de Poder": "Muy baja jerarquía, se valora la igualdad.",
+				"Individualismo": "Alto nivel de individualismo.",
+				"Motivación hacia el Logro": "Fuerte enfoque en el éxito y el rendimiento.",
+				"Evitación de Incertidumbre": "Preferencia por reglas y estructura rigurosa.",
+				"Orientación a Largo Plazo": "Ninguna tendencia clara en esta dimensión.",
+				"Indulgencia": "Alta puntuación en indulgencia con énfasis en el ocio."
+			}
+		},
+		{
+			"id": "AZ",
+			"name": {
+				"en": "Azerbaijan",
+				"es": "Azerbaiyán"
+			},
+			"description": "ISO 3166-2 code: AZ",
+			"dimensiones": {
+				"Distancia de Poder": 85,
+				"Individualismo": 28,
+				"Motivación hacia el Logro": 50,
+				"Evitación de Incertidumbre": 88,
+				"Orientación a Largo Plazo": 59,
+				"Indulgencia": 22
+			},
+			"explicación": {
+				"Distancia de Poder": "Alto valor a la jerarquía y desigualdad.",
+				"Individualismo": "Baja puntuación indica fuerte colectivismo.",
+				"Motivación hacia el Logro": "Puntuaciones intermedias sin un valor cultural claro.",
+				"Evitación de Incertidumbre": "Alta preferencia por evitar ambigüedad.",
+				"Orientación a Largo Plazo": "Pragmáticos en su enfoque cultural.",
+				"Indulgencia": "Tendencia a la restricción y control sobre deseos."
+			}
+		},
+		{
+			"id": "BD",
+			"name": {
+				"en": "Bangladesh",
+				"es": "Bangladés"
+			},
+			"description": "ISO 3166-2 code: BD",
+			"dimensiones": {
+				"Distancia de Poder": 80,
+				"Individualismo": 5,
+				"Motivación hacia el Logro": 55,
+				"Evitación de Incertidumbre": 60,
+				"Orientación a Largo Plazo": 38,
+				"Indulgencia": 20
+			},
+			"explicación": {
+				"Distancia de Poder": "Alta jerarquía, con fuerte aceptación del orden.",
+				"Individualismo": "Alta colectividad, fuerte compromiso a los grupos.",
+				"Motivación hacia el Logro": "Más inclinados hacia un enfoque decisivo en el trabajo.",
+				"Evitación de Incertidumbre": "Preferencia por reglas que minimizan riesgos.",
+				"Orientación a Largo Plazo": "Cultura normativa, énfasis en la verdad.",
+				"Indulgencia": "Baja puntuación indica restricción en la gratificación de deseos."
+			}
+		},
+		{
+			"id": "BY",
+			"name": {
+				"en": "Belarus",
+				"es": "Bielorrusia"
+			},
+			"description": "ISO 3166-2 code: BY",
+			"dimensiones": {
+				"Distancia de Poder": 95,
+				"Individualismo": 48,
+				"Motivación hacia el Logro": 20,
+				"Evitación de Incertidumbre": 95,
+				"Orientación a Largo Plazo": 53,
+				"Indulgencia": 15
+			},
+			"explicación": {
+				"Distancia de Poder": "Extremadamente jerárquica, altamente autoritaria.",
+				"Individualismo": "Equilibrio entre valores individualistas y colectivistas.",
+				"Motivación hacia el Logro": "Baja puntuación en foco en el logro individual.",
+				"Evitación de Incertidumbre": "Muy alta preferencia por evitar ambigüedad.",
+				"Orientación a Largo Plazo": "Normativa pero con equilibrio en flexibilidad.",
+				"Indulgencia": "Baja puntuación sugiere cultura de restricción."
+			}
+		},
+		{
+			"id": "BE",
+			"name": {
+				"en": "Belgium",
+				"es": "Bélgica"
+			},
+			"description": "ISO 3166-2 code: BE",
+			"dimensiones": {
+				"Distancia de Poder": 65,
+				"Individualismo": 81,
+				"Motivación hacia el Logro": 54,
+				"Evitación de Incertidumbre": 94,
+				"Orientación a Largo Plazo": 61,
+				"Indulgencia": 57
+			},
+			"explicación": {
+				"Distancia de Poder": "Sociedad donde se aceptan desigualdades, con jerarquía necesaria y centralización del poder.",
+				"Individualismo": "Alta valoración del individualismo y la autonomía, aunque necesita jerarquía generando tensión cultural.",
+				"Motivación hacia el Logro": "Puntuación intermedia, con énfasis en alcanzar consenso sobre ganar discusiones.",
+				"Evitación de Incertidumbre": "Alta preferencia por la certeza, planificar es habitual y el cambio puede generar estrés.",
+				"Orientación a Largo Plazo": "Cultura pragmática, adaptativa, que valora el ahorro y la perseverance.",
+				"Indulgencia": "Tendencia a realizar deseos, valorando el ocio y mostrando optimismo."
+			}
+		},
+		{
+			"id": "BT",
+			"name": {
+				"en": "Bhutan",
+				"es": "Bután"
+			},
+			"description": "ISO 3166-2 code: BT",
+			"dimensiones": {
+				"Distancia de Poder": 94,
+				"Individualismo": 52,
+				"Motivación hacia el Logro": 32,
+				"Evitación de Incertidumbre": 28,
+				"Orientación a Largo Plazo": null,
+				"Indulgencia": null
+			},
+			"explicación": {
+				"Distancia de Poder": "Sociedad altamente jerárquica, donde se acepta un orden jerárquico sin justificación adicional.",
+				"Individualismo": "Puntuación intermedia, sin preferencia fuerte por un extremo del espectro.",
+				"Motivación hacia el Logro": "Sociedad de consenso, valorando la igualdad y el bienestar sobre el logro individual.",
+				"Evitación de Incertidumbre": "Cultura pragmática y relajada, con apertura a nuevas ideas y disposición a tomar riesgos.",
+				"Orientación a Largo Plazo": "No disponible.",
+				"Indulgencia": "No disponible."
+			}
+		},
+		{
+			"id": "BO",
+			"name": {
+				"en": "Bolivia",
+				"es": "Bolivia"
+			},
+			"description": "ISO 3166-2 code: BO",
+			"dimensiones": {
+				"Distancia de Poder": 78,
+				"Individualismo": 23,
+				"Motivación hacia el Logro": 42,
+				"Evitación de Incertidumbre": 87,
+				"Orientación a Largo Plazo": 21,
+				"Indulgencia": 46
+			},
+			"explicación": {
+				"Distancia de Poder": "Alto nivel de aceptación de la jerarquía en la sociedad.",
+				"Individualismo": "Bajo nivel indica una sociedad colectivista.",
+				"Motivación hacia el Logro": "Modesta orientación hacia el logro, favorece la equidad.",
+				"Evitación de Incertidumbre": "Alta preferencia por reglas y estructura.",
+				"Orientación a Largo Plazo": "Cultura normativa, con énfasis en la verdad absoluta.",
+				"Indulgencia": "No se establece una inclinación clara entre indulgencia y restricción."
+			}
+		},
+		{
+			"id": "BA",
+			"name": {
+				"en": "Bosnia and Herzegovina",
+				"es": "Bosnia y Herzegovina"
+			},
+			"description": "ISO 3166-2 code: BA",
+			"dimensiones": {
+				"Distancia de Poder": 90,
+				"Individualismo": 40,
+				"Motivación hacia el Logro": 48,
+				"Evitación de Incertidumbre": 87,
+				"Orientación a Largo Plazo": 36,
+				"Indulgencia": 44
+			},
+			"explicación": {
+				"Distancia de Poder": "Alto nivel de jerarquía y desigualdad.",
+				"Individualismo": "Cultura colectivista donde prevalecen los intereses del grupo.",
+				"Motivación hacia el Logro": "Pontuación intermedia, combinando logros y consenso.",
+				"Evitación de Incertidumbre": "Alta necesidad de evitar la ambigüedad y mantener reglas estrictas.",
+				"Orientación a Largo Plazo": "Cultura normativa influenciada por eventos históricos.",
+				"Indulgencia": "No se establece una inclinación clara entre indulgencia y restricción."
+			}
+		},
+		{
+			"id": "BR",
+			"name": {
+				"en": "Brazil",
+				"es": "Brasil"
+			},
+			"description": "ISO 3166-2 code: BR",
+			"dimensiones": {
+				"Distancia de Poder": 69,
+				"Individualismo": 36,
+				"Motivación hacia el Logro": 49,
+				"Evitación de Incertidumbre": 76,
+				"Orientación a Largo Plazo": 28,
+				"Indulgencia": 59
+			},
+			"explicación": {
+				"Distancia de Poder": "Moderado respeto por la jerarquía y desigualdades.",
+				"Individualismo": "Baja puntuación indica fuertes lazos familiares y colectivistas.",
+				"Motivación hacia el Logro": "Puntuación intermedia sin una clara preferencia cultural.",
+				"Evitación de Incertidumbre": "Alta necesidad de normas y regulaciones.",
+				"Orientación a Largo Plazo": "Cultura normativa con enfoque en resultados inmediatos.",
+				"Indulgencia": "Alto nivel de indulgencia, disfrutan de la vida y momentos de ocio."
+			}
+		},
+		{
+			"id": "BG",
+			"name": {
+				"en": "Bulgaria",
+				"es": "Bulgaria"
+			},
+			"description": "ISO 3166-2 code: BG",
+			"dimensiones": {
+				"Distancia de Poder": 70,
+				"Individualismo": 50,
+				"Motivación hacia el Logro": 40,
+				"Evitación de Incertidumbre": 85,
+				"Orientación a Largo Plazo": 51,
+				"Indulgencia": 16
+			},
+			"explicación": {
+				"Distancia de Poder": "Alto nivel de aceptación de la jerarquía.",
+				"Individualismo": "Puntuación intermedia, sin preferencia clara.",
+				"Motivación hacia el Logro": "Baja motivación hacia el logro individual.",
+				"Evitación de Incertidumbre": "Alta preferencia por evitar la incertidumbre.",
+				"Orientación a Largo Plazo": "Puntuación intermedia, sin clara inclinación.",
+				"Indulgencia": "Baja puntuación indica una cultura de restricción."
+			}
+		},
+		{
+			"id": "BF",
+			"name": {
+				"en": "Burkina Faso",
+				"es": "Burkina Faso"
+			},
+			"description": "ISO 3166-2 code: BF",
+			"dimensiones": {
+				"Distancia de Poder": 70,
+				"Individualismo": 15,
+				"Motivación hacia el Logro": 50,
+				"Evitación de Incertidumbre": 55,
+				"Orientación a Largo Plazo": 27,
+				"Indulgencia": 18
+			},
+			"explicación": {
+				"Distancia de Poder": "Alto nivel de aceptación de la jerarquía.",
+				"Individualismo": "Bajo, cultura colectivista fuertemente unida.",
+				"Motivación hacia el Logro": "Puntuación intermedia, sin valor cultural dominante.",
+				"Evitación de Incertidumbre": "Puntuación intermedia, flexibilidad ante la incertidumbre.",
+				"Orientación a Largo Plazo": "Cultura normativa, énfasis en la verdad absoluta.",
+				"Indulgencia": "Baja puntuación refleja una cultura de restricción."
+			}
+		},
+		{
+			"id": "CA",
+			"name": {
+				"en": "Canada",
+				"es": "Canadá"
+			},
+			"description": "ISO 3166-2 code: CA",
+			"dimensiones": {
+				"Distancia de Poder": 39,
+				"Individualismo": 72,
+				"Motivación hacia el Logro": 52,
+				"Evitación de Incertidumbre": 48,
+				"Orientación a Largo Plazo": 54,
+				"Indulgencia": 68
+			},
+			"explicación": {
+				"Distancia de Poder": "Bajo nivel de jerarquía, valor en la igualdad.",
+				"Individualismo": "Alto individualismo, enfoque en la autodependencia.",
+				"Motivación hacia el Logro": "Moderada motivación hacia el logro.",
+				"Evitación de Incertidumbre": "Aceptación de nuevas ideas e innovación.",
+				"Orientación a Largo Plazo": "Cultura pragmática, adaptabilidad a situaciones cambiantes.",
+				"Indulgencia": "Alto nivel de indulgencia, disfrutan de la vida y el ocio."
+			}
+		},
+		{
+			"id": "CV",
+			"name": {
+				"en": "Cape Verde",
+				"es": "Cabo Verde"
+			},
+			"description": "ISO 3166-2 code: CV",
+			"dimensiones": {
+				"Distancia de Poder": 75,
+				"Individualismo": 20,
+				"Motivación hacia el Logro": 15,
+				"Evitación de Incertidumbre": 40,
+				"Orientación a Largo Plazo": 12,
+				"Indulgencia": 83
+			},
+			"explicación": {
+				"Distancia de Poder": "Alto nivel de aceptación de la jerarquía.",
+				"Individualismo": "Bajo, fuertemente colectivista.",
+				"Motivación hacia el Logro": "Baja puntuación indica una cultura más bien de consenso.",
+				"Evitación de Incertidumbre": "Puntuación intermedia, flexibilidad ante la incertidumbre.",
+				"Orientación a Largo Plazo": "Bajo, normativa en su pensamiento.",
+				"Indulgencia": "Alto nivel de indulgencia, disfrutan de la vida plenamente."
+			}
+		},
+		{
+			"id": "CL",
+			"name": {
+				"en": "Chile",
+				"es": "Chile"
+			},
+			"description": "ISO 3166-2 code: CL",
+			"dimensiones": {
+				"Distancia de Poder": 63,
+				"Individualismo": 49,
+				"Motivación hacia el Logro": 28,
+				"Evitación de Incertidumbre": 86,
+				"Orientación a Largo Plazo": 12,
+				"Indulgencia": 68
+			},
+			"explicación": {
+				"Distancia de Poder": "Intermedia a alta, jerarquía respetada.",
+				"Individualismo": "Puntuación intermedia, marcada por la búsqueda de pertenencia.",
+				"Motivación hacia el Logro": "Baja motivación hacia el logro individual.",
+				"Evitación de Incertidumbre": "Alta necesidad de reglas y orden.",
+				"Orientación a Largo Plazo": "Baja puntuación, enfoque en resultados inmediatos.",
+				"Indulgencia": "Alta indulgencia, disfrutan de la vida y el ocio."
+			}
+		},
+		{
+			"id": "CN",
+			"name": {
+				"en": "China",
+				"es": "China"
+			},
+			"description": "ISO 3166-2 code: CN",
+			"dimensiones": {
+				"Distancia de Poder": 80,
+				"Individualismo": 43,
+				"Motivación hacia el Logro": 66,
+				"Evitación de Incertidumbre": 70,
+				"Orientación a Largo Plazo": 30,
+				"Indulgencia": 77
+			},
+			"explicación": {
+				"Distancia de Poder": "Alto nivel de aceptación de la jerarquía y desigualdad en la sociedad.",
+				"Individualismo": "Moderada colectividad, priorizando los intereses del grupo sobre los individuales.",
+				"Motivación hacia el Logro": "Alta motivación hacia el éxito, sacrificando tiempo personal.",
+				"Evitación de Incertidumbre": "Baja necesidad de estructura rígida, pero flexible ante la ambigüedad.",
+				"Orientación a Largo Plazo": "Enfoque pragmático y adaptabilidad a condiciones cambiantes.",
+				"Indulgencia": "Alto nivel de indulgencia, disfrutan de la vida y buscan satisfacer sus deseos."
+			}
+		},
+		{
+			"id": "CO",
+			"name": {
+				"en": "Colombia",
+				"es": "Colombia"
+			},
+			"description": "ISO 3166-2 code: CO",
+			"dimensiones": {
+				"Distancia de Poder": 67,
+				"Individualismo": 29,
+				"Motivación hacia el Logro": 64,
+				"Evitación de Incertidumbre": 80,
+				"Orientación a Largo Plazo": 6,
+				"Indulgencia": 83
+			},
+			"explicación": {
+				"Distancia de Poder": "Alto nivel de aceptación de la jerarquía y desigualdades en la sociedad.",
+				"Individualismo": "Bajo, priorizan la lealtad a los grupos.",
+				"Motivación hacia el Logro": "Alta competitividad enfocada en grupos, no individuos.",
+				"Evitación de Incertidumbre": "Alta necesidad de reglas y estructuras para evitar ambigüedades.",
+				"Orientación a Largo Plazo": "Baja puntuación, con enfoque en resultados inmediatos.",
+				"Indulgencia": "Alto nivel de indulgencia, disfrutan de la vida y tienen una actitud positiva."
+			}
+		},
+		{
+			"id": "CR",
+			"name": {
+				"en": "Costa Rica",
+				"es": "Costa Rica"
+			},
+			"description": "ISO 3166-2 code: CR",
+			"dimensiones": {
+				"Distancia de Poder": 35,
+				"Individualismo": 15,
+				"Motivación hacia el Logro": 21,
+				"Evitación de Incertidumbre": 86,
+				"Orientación a Largo Plazo": 0,
+				"Indulgencia": 0
+			},
+			"explicación": {
+				"Distancia de Poder": "Bajo, los Ticos priorizan la igualdad y el consenso.",
+				"Individualismo": "Muy bajo, fuerte colectivismo.",
+				"Motivación hacia el Logro": "Extremadamente baja, evita la crítica personal.",
+				"Evitación de Incertidumbre": "Alta, con necesidad de estructura y reglas.",
+				"Orientación a Largo Plazo": "No hay puntuación disponible.",
+				"Indulgencia": "No hay puntuación disponible."
+			}
+		},
+		{
+			"id": "HR",
+			"name": {
+				"en": "Croatia",
+				"es": "Croacia"
+			},
+			"description": "ISO 3166-2 code: HR",
+			"dimensiones": {
+				"Distancia de Poder": 73,
+				"Individualismo": 42,
+				"Motivación hacia el Logro": 40,
+				"Evitación de Incertidumbre": 80,
+				"Orientación a Largo Plazo": 40,
+				"Indulgencia": 33
+			},
+			"explicación": {
+				"Distancia de Poder": "Alto nivel de aceptación de la jerarquía y desigualdades.",
+				"Individualismo": "Bajo, priorizando la lealtad al grupo.",
+				"Motivación hacia el Logro": "Baja motivación hacia el logro personal.",
+				"Evitación de Incertidumbre": "Alta, con preferencia por reglas estrictas.",
+				"Orientación a Largo Plazo": "Puntuación intermedia, sin preferencia clara.",
+				"Indulgencia": "Baja, indicando una cultura de restricción."
+			}
+		},
+		{
+			"id": "CZ",
+			"name": {
+				"en": "Czech Republic",
+				"es": "República Checa"
+			},
+			"description": "ISO 3166-2 code: CZ",
+			"dimensiones": {
+				"Distancia de Poder": 57,
+				"Individualismo": 70,
+				"Motivación hacia el Logro": 57,
+				"Evitación de Incertidumbre": 74,
+				"Orientación a Largo Plazo": 51,
+				"Indulgencia": 29
+			},
+			"explicación": {
+				"Distancia de Poder": "Moderado, aceptan la jerarquía.",
+				"Individualismo": "Alto, enfocados en el individuo y la autodependencia.",
+				"Motivación hacia el Logro": "Puntuación intermedia, tendencia hacia el logro.",
+				"Evitación de Incertidumbre": "Alta, con necesidad de reglas y estructura.",
+				"Orientación a Largo Plazo": "Puntuación intermedia, sin clara preferencia.",
+				"Indulgencia": "Baja, indicando una cultura de restricción."
+			}
+		},
+		{
+			"id": "DK",
+			"name": {
+				"en": "Denmark",
+				"es": "Dinamarca"
+			},
+			"description": "ISO 3166-2 code: DK",
+			"dimensiones": {
+				"Distancia de Poder": 18,
+				"Individualismo": 89,
+				"Motivación hacia el Logro": 16,
+				"Evitación de Incertidumbre": 23,
+				"Orientación a Largo Plazo": 59,
+				"Indulgencia": 70
+			},
+			"explicación": {
+				"Distancia de Poder": "Muy baja, priorizan la igualdad y la autonomía.",
+				"Individualismo": "Alto, centrados en el individuo y su bienestar.",
+				"Motivación hacia el Logro": "Baja, priorizando el equilibrio trabajo-vida.",
+				"Evitación de Incertidumbre": "Baja, cómodos con la ambigüedad.",
+				"Orientación a Largo Plazo": "Puntuación intermedia, pragmáticos.",
+				"Indulgencia": "Alto, disfrutan de la vida y el ocio."
+			}
+		},
+		{
+			"id": "DO",
+			"name": {
+				"en": "Dominican Republic",
+				"es": "República Dominicana"
+			},
+			"description": "ISO 3166-2 code: DO",
+			"dimensiones": {
+				"Distancia de Poder": 65,
+				"Individualismo": 38,
+				"Motivación hacia el Logro": 65,
+				"Evitación de Incertidumbre": 45,
+				"Orientación a Largo Plazo": 11,
+				"Indulgencia": 54
+			},
+			"explicación": {
+				"Distancia de Poder": "Moderada, aceptan la jerarquía y desigualdades.",
+				"Individualismo": "Bajo, colectivismo predominante.",
+				"Motivación hacia el Logro": "Alta motivación, enfocados en el éxito.",
+				"Evitación de Incertidumbre": "Moderada, flexibilidad ante la ambigüedad.",
+				"Orientación a Largo Plazo": "Baja, enfoque en resultados inmediatos.",
+				"Indulgencia": "Puntuación intermedia, disfrutan de la vida y el ocio."
+			}
+		},
+		{
+			"id": "EC",
+			"name": {
+				"en": "Ecuador",
+				"es": "Ecuador"
+			},
+			"description": "ISO 3166-2 code: EC",
+			"dimensiones": {
+				"Distancia de Poder": 78,
+				"Individualismo": 24,
+				"Motivación hacia el Logro": 63,
+				"Evitación de Incertidumbre": 67,
+				"Orientación a Largo Plazo": 24,
+				"Indulgencia": 0
+			},
+			"explicación": {
+				"Distancia de Poder": "Alto, aceptan la desigualdad social.",
+				"Individualismo": "Bajo, fuerte orientación colectivista.",
+				"Motivación hacia el Logro": "Alta, competitividad en grupos.",
+				"Evitación de Incertidumbre": "Alta, buscan evitar ambigüedades.",
+				"Orientación a Largo Plazo": "Normativa, respeto a tradiciones.",
+				"Indulgencia": "No disponible."
+			}
+		},
+		{
+			"id": "EG",
+			"name": {
+				"en": "Egypt",
+				"es": "Egipto"
+			},
+			"description": "ISO 3166-2 code: EG",
+			"dimensiones": {
+				"Distancia de Poder": 100,
+				"Individualismo": 13,
+				"Motivación hacia el Logro": 55,
+				"Evitación de Incertidumbre": 55,
+				"Orientación a Largo Plazo": 22,
+				"Indulgencia": 0
+			},
+			"explicación": {
+				"Distancia de Poder": "Muy alta, aceptan la jerarquía absoluta.",
+				"Individualismo": "Muy bajo, fuerte colectivismo.",
+				"Motivación hacia el Logro": "Moderada, orientada hacia el éxito.",
+				"Evitación de Incertidumbre": "Moderada, con reglas que pueden ser flexibles.",
+				"Orientación a Largo Plazo": "Normativa, fuerte énfasis en la tradición.",
+				"Indulgencia": "No disponible."
+			}
+		},
+		{
+			"id": "SV",
+			"name": {
+				"en": "El Salvador",
+				"es": "El Salvador"
+			},
+			"description": "ISO 3166-2 code: SV",
+			"dimensiones": {
+				"Distancia de Poder": 66,
+				"Individualismo": 19,
+				"Motivación hacia el Logro": 40,
+				"Evitación de Incertidumbre": 94,
+				"Orientación a Largo Plazo": 20,
+				"Indulgencia": 89
+			},
+			"explicación": {
+				"Distancia de Poder": "Alto, aceptan la jerarquía.",
+				"Individualismo": "Bajo, fuerte colectivismo y lealtad.",
+				"Motivación hacia el Logro": "Baja, modestia y trabajo duro.",
+				"Evitación de Incertidumbre": "Muy alta, necesitan estructura y reglas.",
+				"Orientación a Largo Plazo": "Baja, énfasis en resultados inmediatos.",
+				"Indulgencia": "Alto, disfrutan de la vida y momentos de ocio."
+			}
+		},
+		{
+			"id": "EE",
+			"name": {
+				"en": "Estonia",
+				"es": "Estonia"
+			},
+			"description": "ISO 3166-2 code: EE",
+			"dimensiones": {
+				"Distancia de Poder": 40,
+				"Individualismo": 62,
+				"Motivación hacia el Logro": 30,
+				"Evitación de Incertidumbre": 60,
+				"Orientación a Largo Plazo": 71,
+				"Indulgencia": 16
+			},
+			"explicación": {
+				"Distancia de Poder": "Bajo, los estonios valoran la participación y opiniones.",
+				"Individualismo": "Alto, creencia en la responsabilidad personal y el auto cumplimento.",
+				"Motivación hacia el Logro": "Baja, la modestia es valorada y no se presume de logros.",
+				"Evitación de Incertidumbre": "Alta, prefieren un entorno con reglas y estructura.",
+				"Orientación a Largo Plazo": "Alta, pragmatismo en la adaptación a las condiciones cambiantes.",
+				"Indulgencia": "Baja, tendencia a la restricción y control de deseos."
+			}
+		},
+		{
+			"id": "ET",
+			"name": {
+				"en": "Ethiopia",
+				"es": "Etiopía"
+			},
+			"description": "ISO 3166-2 code: ET",
+			"dimensiones": {
+				"Distancia de Poder": 70,
+				"Individualismo": 7,
+				"Motivación hacia el Logro": 65,
+				"Evitación de Incertidumbre": 55,
+				"Orientación a Largo Plazo": 14,
+				"Indulgencia": 46
+			},
+			"explicación": {
+				"Distancia de Poder": "Alto, la jerarquía y lealtad son fundamentales.",
+				"Individualismo": "Muy bajo, fuerte compromiso con el grupo y la familia.",
+				"Motivación hacia el Logro": "Alta, se espera que los individuos sean decisivos y asertivos.",
+				"Evitación de Incertidumbre": "Moderada, cierta flexibilidad en las reglas.",
+				"Orientación a Largo Plazo": "Baja, con un enfoque en resultados inmediatos.",
+				"Indulgencia": "Moderada, sin preferencia clara entre indulgencia y restricción."
+			}
+		},
+		{
+			"id": "FJ",
+			"name": {
+				"en": "Fiji",
+				"es": "Fiyi"
+			},
+			"description": "ISO 3166-2 code: FJ",
+			"dimensiones": {
+				"Distancia de Poder": 78,
+				"Individualismo": 14,
+				"Motivación hacia el Logro": 46,
+				"Evitación de Incertidumbre": 48,
+				"Orientación a Largo Plazo": 0,
+				"Indulgencia": 0
+			},
+			"explicación": {
+				"Distancia de Poder": "Alto, aceptan la jerarquía en la sociedad.",
+				"Individualismo": "Muy bajo, fuerte colectivismo y compromiso con el grupo.",
+				"Motivación hacia el Logro": "Intermedia, sin una clara preferencia cultural.",
+				"Evitación de Incertidumbre": "Moderada, cierta flexibilidad en la planificación.",
+				"Orientación a Largo Plazo": "No hay puntuación disponible.",
+				"Indulgencia": "No hay puntuación disponible."
+			}
+		},
+		{
+			"id": "FI",
+			"name": {
+				"en": "Finland",
+				"es": "Finlandia"
+			},
+			"description": "ISO 3166-2 code: FI",
+			"dimensiones": {
+				"Distancia de Poder": 33,
+				"Individualismo": 75,
+				"Motivación hacia el Logro": 26,
+				"Evitación de Incertidumbre": 59,
+				"Orientación a Largo Plazo": 63,
+				"Indulgencia": 57
+			},
+			"explicación": {
+				"Distancia de Poder": "Bajo, se prefieren estructuras planas y accesibles.",
+				"Individualismo": "Alto, centrados en la autodependencia y la responsabilidad personal.",
+				"Motivación hacia el Logro": "Baja, se prioriza el equilibrio trabajo-vida.",
+				"Evitación de Incertidumbre": "Moderada, con necesidades de reglas y estructura.",
+				"Orientación a Largo Plazo": "Alta, adaptabilidad y pragmatismo.",
+				"Indulgencia": "Moderada, disfrutan de la vida, pero sin excesos."
+			}
+		},
+		{
+			"id": "FR",
+			"name": {
+				"en": "France",
+				"es": "Francia"
+			},
+			"description": "ISO 3166-2 code: FR",
+			"dimensiones": {
+				"Distancia de Poder": 68,
+				"Individualismo": 71,
+				"Motivación hacia el Logro": 43,
+				"Evitación de Incertidumbre": 86,
+				"Orientación a Largo Plazo": 63,
+				"Indulgencia": 48
+			},
+			"explicación": {
+				"Distancia de Poder": "Alto, aceptación de jerarquías en la sociedad.",
+				"Individualismo": "Alto, valoran la independencia y la autosuficiencia.",
+				"Motivación hacia el Logro": "Moderada, enfoque en el éxito personal.",
+				"Evitación de Incertidumbre": "Alta, buscan reglas claras y seguridad.",
+				"Orientación a Largo Plazo": "Alta, pragmatismo y adaptabilidad.",
+				"Indulgencia": "Moderada, equilibrio entre disfrute y control."
+			}
+		},
+		{
+			"id": "GE",
+			"name": {
+				"en": "Georgia",
+				"es": "Georgia"
+			},
+			"description": "ISO 3166-2 code: GE",
+			"dimensiones": {
+				"Distancia de Poder": 65,
+				"Individualismo": 15,
+				"Motivación hacia el Logro": 55,
+				"Evitación de Incertidumbre": 85,
+				"Orientación a Largo Plazo": 24,
+				"Indulgencia": 32
+			},
+			"explicación": {
+				"Distancia de Poder": "Moderada, aceptan jerarquías en la sociedad.",
+				"Individualismo": "Muy bajo, fuerte enfoque en la lealtad al grupo.",
+				"Motivación hacia el Logro": "Intermedia, con aspectos de éxito visibles.",
+				"Evitación de Incertidumbre": "Alta, prefieren estructuras y normas.",
+				"Orientación a Largo Plazo": "Baja, enfoque en resultados inmediatos.",
+				"Indulgencia": "Moderada, tienden a la restricción."
+			}
+		},
+		{
+			"id": "DE",
+			"name": {
+				"en": "Germany",
+				"es": "Alemania"
+			},
+			"description": "ISO 3166-2 code: DE",
+			"dimensiones": {
+				"Distancia de Poder": 35,
+				"Individualismo": 79,
+				"Motivación hacia el Logro": 66,
+				"Evitación de Incertidumbre": 65,
+				"Orientación a Largo Plazo": 57,
+				"Indulgencia": 40
+			},
+			"explicación": {
+				"Distancia de Poder": "Bajo, muy descentralizado y accesible.",
+				"Individualismo": "Alto, se centra en la auto-realización individual.",
+				"Motivación hacia el Logro": "Alta, donde el rendimiento es clave.",
+				"Evitación de Incertidumbre": "Alta, necesidad de reglas claras.",
+				"Orientación a Largo Plazo": "Moderada, con adaptabilidad.",
+				"Indulgencia": "Baja, tendencia hacia la restricción."
+			}
+		},
+		{
+			"id": "GH",
+			"name": {
+				"en": "Ghana",
+				"es": "Ghana"
+			},
+			"description": "ISO 3166-2 code: GH",
+			"dimensiones": {
+				"Distancia de Poder": 80,
+				"Individualismo": 9,
+				"Motivación hacia el Logro": 30,
+				"Evitación de Incertidumbre": 40,
+				"Orientación a Largo Plazo": 65,
+				"Indulgencia": 21
+			},
+			"explicación": {
+				"Distancia de Poder": "Alto, aceptan la jerarquía como parte natural de la sociedad.",
+				"Individualismo": "Muy bajo, fuerte colectivismo y lealtad a los grupos.",
+				"Motivación hacia el Logro": "Baja, enfoque en el bienestar colectivo.",
+				"Evitación de Incertidumbre": "Moderada, flexibilidad en reglas y planificación.",
+				"Orientación a Largo Plazo": "Alta, enfoque en la planificación y adaptabilidad.",
+				"Indulgencia": "Baja, tendencia a la restricción de deseos y deseos personales."
+			}
+		},
+		{
+			"id": "GR",
+			"name": {
+				"en": "Greece",
+				"es": "Grecia"
+			},
+			"description": "ISO 3166-2 code: GR",
+			"dimensiones": {
+				"Distancia de Poder": 60,
+				"Individualismo": 59,
+				"Motivación hacia el Logro": 57,
+				"Evitación de Incertidumbre": 100,
+				"Orientación a Largo Plazo": 51,
+				"Indulgencia": 50
+			},
+			"explicación": {
+				"Distancia de Poder": "Moderada, la jerarquía es reconocida y respetada.",
+				"Individualismo": "Alto, se valora la responsabilidad personal.",
+				"Motivación hacia el Logro": "Moderada, el éxito personal tiene gran importancia.",
+				"Evitación de Incertidumbre": "Muy alta, buscan evitar la incertidumbre mediante reglas estrictas.",
+				"Orientación a Largo Plazo": "Intermedia, adaptación a la situación.",
+				"Indulgencia": "Intermedia, equilibrio entre disfrutar de la vida y control."
+			}
+		},
+		{
+			"id": "GT",
+			"name": {
+				"en": "Guatemala",
+				"es": "Guatemala"
+			},
+			"description": "ISO 3166-2 code: GT",
+			"dimensiones": {
+				"Distancia de Poder": 95,
+				"Individualismo": 36,
+				"Motivación hacia el Logro": 37,
+				"Evitación de Incertidumbre": 98,
+				"Orientación a Largo Plazo": 25,
+				"Indulgencia": 0
+			},
+			"explicación": {
+				"Distancia de Poder": "Muy alta, las desigualdades son aceptadas en todos los niveles.",
+				"Individualismo": "Bajo, fuerte sentido de grupo y familia.",
+				"Motivación hacia el Logro": "Baja, enfatizan el consenso y la cooperación.",
+				"Evitación de Incertidumbre": "Muy alta, buscan evitar la ambigüedad a través de reglas.",
+				"Orientación a Largo Plazo": "Baja, enfoque en resultados inmediatos.",
+				"Indulgencia": "No disponible."
+			}
+		},
+		{
+			"id": "HN",
+			"name": {
+				"en": "Honduras",
+				"es": "Honduras"
+			},
+			"description": "ISO 3166-2 code: HN",
+			"dimensiones": {
+				"Distancia de Poder": 80,
+				"Individualismo": 20,
+				"Motivación hacia el Logro": 40,
+				"Evitación de Incertidumbre": 50,
+				"Orientación a Largo Plazo": 0,
+				"Indulgencia": 0
+			},
+			"explicación": {
+				"Distancia de Poder": "Alto, se acepta la jerarquía y autoridad.",
+				"Individualismo": "Bajo, fuerte compromiso con la comunidad.",
+				"Motivación hacia el Logro": "Moderada, el enfoque es en el bienestar grupal.",
+				"Evitación de Incertidumbre": "Moderada, cierta flexibilidad en normas.",
+				"Orientación a Largo Plazo": "No hay puntuación disponible.",
+				"Indulgencia": "No hay puntuación disponible."
+			}
+		},
+		{
+			"id": "HK",
+			"name": {
+				"en": "Hong Kong",
+				"es": "Hong Kong"
+			},
+			"description": "ISO 3166-2 code: HK",
+			"dimensiones": {
+				"Distancia de Poder": 68,
+				"Individualismo": 50,
+				"Motivación hacia el Logro": 57,
+				"Evitación de Incertidumbre": 29,
+				"Orientación a Largo Plazo": 93,
+				"Indulgencia": 17
+			},
+			"explicación": {
+				"Distancia de Poder": "Alta, se aceptan desigualdades en la sociedad.",
+				"Individualismo": "Moderada, valorando el equilibrio entre grupos e individuos.",
+				"Motivación hacia el Logro": "Alta, orientados al éxito y rendimiento.",
+				"Evitación de Incertidumbre": "Baja, cómoda con la ambigüedad.",
+				"Orientación a Largo Plazo": "Alta, pragmatismo y adaptación.",
+				"Indulgencia": "Baja, tendencia hacia la restricción."
+			}
+		},
+		{
+			"id": "HU",
+			"name": {
+				"en": "Hungary",
+				"es": "Hungría"
+			},
+			"description": "ISO 3166-2 code: HU",
+			"dimensiones": {
+				"Distancia de Poder": 46,
+				"Individualismo": 71,
+				"Motivación hacia el Logro": 88,
+				"Evitación de Incertidumbre": 82,
+				"Orientación a Largo Plazo": 45,
+				"Indulgencia": 31
+			},
+			"explicación": {
+				"Distancia de Poder": "Moderada, la jerarquía es para conveniencia.",
+				"Individualismo": "Alto, se espera que los individuos se cuiden a sí mismos.",
+				"Motivación hacia el Logro": "Alta, sociedad orientada al rendimiento.",
+				"Evitación de Incertidumbre": "Alta, buscan reglas y estructuras claras.",
+				"Orientación a Largo Plazo": "Intermedia, adaptabilidad a condiciones cambiantes.",
+				"Indulgencia": "Baja, limitan gratificación de deseos."
+			}
+		},
+		{
+			"id": "IS",
+			"name": {
+				"en": "Iceland",
+				"es": "Islandia"
+			},
+			"description": "ISO 3166-2 code: IS",
+			"dimensiones": {
+				"Distancia de Poder": 30,
+				"Individualismo": 83,
+				"Motivación hacia el Logro": 10,
+				"Evitación de Incertidumbre": 50,
+				"Orientación a Largo Plazo": 57,
+				"Indulgencia": 67
+			},
+			"explicación": {
+				"Distancia de Poder": "Bajo, comunicación muy accesible y participativa.",
+				"Individualismo": "Alto, fuerte enfoque en la auto-suficiencia.",
+				"Motivación hacia el Logro": "Baja, la vida laboral se basa en el equilibrio y el bienestar.",
+				"Evitación de Incertidumbre": "Moderada, flexibilidad y adaptación en la planificación.",
+				"Orientación a Largo Plazo": "Moderada, adaptabilidad a nuevas condiciones.",
+				"Indulgencia": "Alta, valoran el tiempo libre y el disfrute."
+			}
+		},
+		{
+			"id": "IN",
+			"name": {
+				"en": "India",
+				"es": "India"
+			},
+			"description": "ISO 3166-2 code: IN",
+			"dimensiones": {
+				"Distancia de Poder": 77,
+				"Individualismo": 24,
+				"Motivación hacia el Logro": 56,
+				"Evitación de Incertidumbre": 40,
+				"Orientación a Largo Plazo": 51,
+				"Indulgencia": 26
+			},
+			"explicación": {
+				"Distancia de Poder": "Alta, aprecian la jerarquía y estructura superior.",
+				"Individualismo": "Bajo, elementos colectivistas fuertes en la cultura.",
+				"Motivación hacia el Logro": "Moderada, éxito visible aunque en equilibrio con la espiritualidad.",
+				"Evitación de Incertidumbre": "Moderada, aceptación de la imperfección y flexibilidad.",
+				"Orientación a Largo Plazo": "Intermedia, valoran la adaptación en la planificación.",
+				"Indulgencia": "Baja, tendencias hacia la restricción en la gratificación."
+			}
+		},
+		{
+			"id": "ID",
+			"name": {
+				"en": "Indonesia",
+				"es": "Indonesia"
+			},
+			"description": "ISO 3166-2 code: ID",
+			"dimensiones": {
+				"Distancia de Poder": 78,
+				"Individualismo": 5,
+				"Motivación hacia el Logro": 46,
+				"Evitación de Incertidumbre": 48,
+				"Orientación a Largo Plazo": 29,
+				"Indulgencia": 38
+			},
+			"explicación": {
+				"Distancia de Poder": "Alto, se acepta la jerarquía y la autoridad centralizada.",
+				"Individualismo": "Muy bajo, fuerte colectivismo y compromiso familiar.",
+				"Motivación hacia el Logro": "Moderada, la imagen de éxito es importante pero no siempre se basa en ganancias materiales.",
+				"Evitación de Incertidumbre": "Moderada, la armonía y la gestión de conflictos son esenciales.",
+				"Orientación a Largo Plazo": "Baja, enfoque en resultados inmediatos sin planificación a largo plazo.",
+				"Indulgencia": "Baja, hay cierta restricción en la gratificación de deseos."
+			}
+		},
+		{
+			"id": "IR",
+			"name": {
+				"en": "Iran",
+				"es": "Irán"
+			},
+			"description": "ISO 3166-2 code: IR",
+			"dimensiones": {
+				"Distancia de Poder": 58,
+				"Individualismo": 23,
+				"Motivación hacia el Logro": 43,
+				"Evitación de Incertidumbre": 59,
+				"Orientación a Largo Plazo": 30,
+				"Indulgencia": 40
+			},
+			"explicación": {
+				"Distancia de Poder": "Intermedia, aceptan la jerarquía como parte de su estructura social.",
+				"Individualismo": "Bajo, fuerte compromiso con el grupo y la familia.",
+				"Motivación hacia el Logro": "Moderada, el enfoque está en el bienestar y la calidad de vida.",
+				"Evitación de Incertidumbre": "Alta, la necesidad de reglas y estructuras es significativa.",
+				"Orientación a Largo Plazo": "Baja, preferencia por resultados rápidos.",
+				"Indulgencia": "Baja, tendencia a la restricción en el disfrute personal."
+			}
+		},
+		{
+			"id": "IQ",
+			"name": {
+				"en": "Iraq",
+				"es": "Irak"
+			},
+			"description": "ISO 3166-2 code: IQ",
+			"dimensiones": {
+				"Distancia de Poder": 97,
+				"Individualismo": 25,
+				"Motivación hacia el Logro": 53,
+				"Evitación de Incertidumbre": 96,
+				"Orientación a Largo Plazo": 11,
+				"Indulgencia": 0
+			},
+			"explicación": {
+				"Distancia de Poder": "Muy alta, se aceptan desigualdades jerárquicas en la sociedad.",
+				"Individualismo": "Bajo, el colectivismo y la lealtad de grupo son esenciales.",
+				"Motivación hacia el Logro": "Intermedia, combinando elementos de éxito y cooperación.",
+				"Evitación de Incertidumbre": "Muy alta, buscan evitar la ambigüedad a través de reglas establecidas.",
+				"Orientación a Largo Plazo": "Baja, enfoque en la gratificación inmediata.",
+				"Indulgencia": "No disponible."
+			}
+		},
+		{
+			"id": "IE",
+			"name": {
+				"en": "Ireland",
+				"es": "Irlanda"
+			},
+			"description": "ISO 3166-2 code: IE",
+			"dimensiones": {
+				"Distancia de Poder": 28,
+				"Individualismo": 58,
+				"Motivación hacia el Logro": 68,
+				"Evitación de Incertidumbre": 35,
+				"Orientación a Largo Plazo": 51,
+				"Indulgencia": 65
+			},
+			"explicación": {
+				"Distancia de Poder": "Baja, prefieren la igualdad y la descentralización de la autoridad.",
+				"Individualismo": "Relativamente alto, promoviendo la auto-suficiencia.",
+				"Motivación hacia el Logro": "Alta, el éxito y la competencia son valores importantes.",
+				"Evitación de Incertidumbre": "Baja, valoran la creatividad y la innovación.",
+				"Orientación a Largo Plazo": "Intermedia, las decisiones son flexibles.",
+				"Indulgencia": "Alta, disfrutan de la vida y valoran el tiempo libre."
+			}
+		},
+		{
+			"id": "IL",
+			"name": {
+				"en": "Israel",
+				"es": "Israel"
+			},
+			"description": "ISO 3166-2 code: IL",
+			"dimensiones": {
+				"Distancia de Poder": 13,
+				"Individualismo": 56,
+				"Motivación hacia el Logro": 47,
+				"Evitación de Incertidumbre": 81,
+				"Orientación a Largo Plazo": 47,
+				"Indulgencia": 0
+			},
+			"explicación": {
+				"Distancia de Poder": "Sociedad con mentalidad igualitaria, descentralización del poder y comunicación directa e informal.",
+				"Individualismo": "Cultura que combina aspectos individualistas y colectivistas, con fuerte enfoque en la familia nuclear y la autorrealización.",
+				"Motivación hacia el Logro": "Ni claramente decisiva ni de consenso, con valoración de buen desempeño y esperando decisión y asertividad en los líderes.",
+				"Evitación de Incertidumbre": "Alta preferencia por reglas y seguridad, con expresividad emocional y agresividad vocal.",
+				"Orientación a Largo Plazo": "Muestra una posición neutral sin una clara preferencia hacia mantener tradiciones arraigadas o adoptar un enfoque más pragmático hacia el futuro.",
+				"Indulgencia": "No disponible."
+			}
+		},
+		{
+			"id": "IT",
+			"name": {
+				"en": "Italy",
+				"es": "Italia"
+			},
+			"description": "ISO 3166-2 code: IT",
+			"dimensiones": {
+				"Distancia de Poder": 50,
+				"Individualismo": 70,
+				"Motivación hacia el Logro": 70,
+				"Evitación de Incertidumbre": 75,
+				"Orientación a Largo Plazo": 39,
+				"Indulgencia": 30
+			},
+			"explicación": {
+				"Distancia de Poder": "Moderada, se prefieren estructuras más equitativas.",
+				"Individualismo": "Alto, enfocado en el cumplimiento personal.",
+				"Motivación hacia el Logro": "Alta, motivados por el éxito y el estatus.",
+				"Evitación de Incertidumbre": "Alta, buscan formalidad y estructura.",
+				"Orientación a Largo Plazo": "Baja, tienden a enfocarse en resultados inmediatos.",
+				"Indulgencia": "Baja, tienden a la restricción en el disfrute personal."
+			}
+		},
+		{
+			"id": "JM",
+			"name": {
+				"en": "Jamaica",
+				"es": "Jamaica"
+			},
+			"description": "ISO 3166-2 code: JM",
+			"dimensiones": {
+				"Distancia de Poder": 45,
+				"Individualismo": 39,
+				"Motivación hacia el Logro": 68,
+				"Evitación de Incertidumbre": 13,
+				"Orientación a Largo Plazo": 0,
+				"Indulgencia": 0
+			},
+			"explicación": {
+				"Distancia de Poder": "Moderada, con jerarquías para conveniencia.",
+				"Individualismo": "Bajo, fuerte compromiso con la familia y comunidad.",
+				"Motivación hacia el Logro": "Alta, competitividad y éxito son importantes.",
+				"Evitación de Incertidumbre": "Baja, relajados ante la ambigüedad y reglas.",
+				"Orientación a Largo Plazo": "No disponible.",
+				"Indulgencia": "No disponible."
+			}
+		},
+		{
+			"id": "JP",
+			"name": {
+				"en": "Japan",
+				"es": "Japón"
+			},
+			"description": "ISO 3166-2 code: JP",
+			"dimensiones": {
+				"Distancia de Poder": 54,
+				"Individualismo": 62,
+				"Motivación hacia el Logro": 95,
+				"Evitación de Incertidumbre": 92,
+				"Orientación a Largo Plazo": 87,
+				"Indulgencia": 42
+			},
+			"explicación": {
+				"Distancia de Poder": "Intermedia, consciente de la jerarquía pero con cierta flexibilidad.",
+				"Individualismo": "Alto, valorando la lealtad a la empresa.",
+				"Motivación hacia el Logro": "Muy alta, con un enfoque en el rendimiento y la competencia.",
+				"Evitación de Incertidumbre": "Muy alta, buscan seguir reglas y procedimientos estructurados.",
+				"Orientación a Largo Plazo": "Alta, enfoque en la sostenibilidad y el futuro.",
+				"Indulgencia": "Baja, la restricción personal es común."
+			}
+		},
+		{
+			"id": "JO",
+			"name": {
+				"en": "Jordan",
+				"es": "Jordania"
+			},
+			"description": "ISO 3166-2 code: JO",
+			"dimensiones": {
+				"Distancia de Poder": 70,
+				"Individualismo": 20,
+				"Motivación hacia el Logro": 45,
+				"Evitación de Incertidumbre": 65,
+				"Orientación a Largo Plazo": 20,
+				"Indulgencia": 43
+			},
+			"explicación": {
+				"Distancia de Poder": "Alto, se acepta la jerarquía y la autoridad centralizada.",
+				"Individualismo": "Bajo, fuerte colectivismo y compromiso familiar.",
+				"Motivación hacia el Logro": "Moderada, enfoque en el bienestar colectivo.",
+				"Evitación de Incertidumbre": "Alta, buscan evitar la ambigüedad a través de reglas estrictas.",
+				"Orientación a Largo Plazo": "Baja, enfoque en resultados inmediatos.",
+				"Indulgencia": "Moderada, cierta restricción en la gratificación de deseos."
+			}
+		},
+		{
+			"id": "KZ",
+			"name": {
+				"en": "Kazakhstan",
+				"es": "Kazajistán"
+			},
+			"description": "ISO 3166-2 code: KZ",
+			"dimensiones": {
+				"Distancia de Poder": 88,
+				"Individualismo": 20,
+				"Motivación hacia el Logro": 50,
+				"Evitación de Incertidumbre": 88,
+				"Orientación a Largo Plazo": 85,
+				"Indulgencia": 22
+			},
+			"explicación": {
+				"Distancia de Poder": "Muy alta, los líderes son vistos como distantes y con más beneficios.",
+				"Individualismo": "Bajo, fuerte compromiso con el grupo y la colectividad.",
+				"Motivación hacia el Logro": "Intermedia, variabilidad en el enfoque hacia el éxito.",
+				"Evitación de Incertidumbre": "Muy alta, tienen necesidad de reglas y estructuras claras.",
+				"Orientación a Largo Plazo": "Alta, enfoque en la adaptabilidad y la planificación.",
+				"Indulgencia": "Baja, tendencia a la restricción en el disfrute personal."
+			}
+		},
+		{
+			"id": "KE",
+			"name": {
+				"en": "Kenya",
+				"es": "Kenia"
+			},
+			"description": "ISO 3166-2 code: KE",
+			"dimensiones": {
+				"Distancia de Poder": 70,
+				"Individualismo": 4,
+				"Motivación hacia el Logro": 60,
+				"Evitación de Incertidumbre": 50,
+				"Orientación a Largo Plazo": 11,
+				"Indulgencia": 0
+			},
+			"explicación": {
+				"Distancia de Poder": "Alto, la jerarquía es aceptada y esperada.",
+				"Individualismo": "Muy bajo, fuerte colectivismo y responsabilidad grupal.",
+				"Motivación hacia el Logro": "Alta, el éxito y la competencia son valorados.",
+				"Evitación de Incertidumbre": "Intermedia, cierta flexibilidad en las reglas.",
+				"Orientación a Largo Plazo": "Baja, enfoque en resultados inmediatos.",
+				"Indulgencia": "No disponible."
+			}
+		},
+		{
+			"id": "KW",
+			"name": {
+				"en": "Kuwait",
+				"es": "Kuwait"
+			},
+			"description": "ISO 3166-2 code: KW",
+			"dimensiones": {
+				"Distancia de Poder": 73,
+				"Individualismo": 28,
+				"Motivación hacia el Logro": 45,
+				"Evitación de Incertidumbre": 70,
+				"Orientación a Largo Plazo": 31,
+				"Indulgencia": 29
+			},
+			"explicación": {
+				"Distancia de Poder": "Alta, se aceptan jerarquías y control centralizado.",
+				"Individualismo": "Bajo, fuerte lealtad a grupos y familiares.",
+				"Motivación hacia el Logro": "Moderada, foco en el bienestar y consenso.",
+				"Evitación de Incertidumbre": "Alta, necesidad de estructura y normas claras.",
+				"Orientación a Largo Plazo": "Baja, se prefieren resultados inmediatos.",
+				"Indulgencia": "se caracteriza por ser restrictiva, donde las normas sociales limitan la gratificación de deseos y el tiempo de ocio, fomentando el pesimismo y el autocontrol."
+			}
+		},
+		{
+			"id": "LV",
+			"name": {
+				"en": "Latvia",
+				"es": "Letonia"
+			},
+			"description": "ISO 3166-2 code: LV",
+			"dimensiones": {
+				"Distancia de Poder": 44,
+				"Individualismo": 70,
+				"Motivación hacia el Logro": 19,
+				"Evitación de Incertidumbre": 63,
+				"Orientación a Largo Plazo": 69,
+				"Indulgencia": 16
+			},
+			"explicación": {
+				"Distancia de Poder": "Moderada, con preferencia por la igualdad y descentralización.",
+				"Individualismo": "Alto, fuerte enfoque en el individualismo y responsabilidades personales.",
+				"Motivación hacia el Logro": "Baja, tienden a ser modestos y críticos de sus logros.",
+				"Evitación de Incertidumbre": "Alta, con necesidad de reglas y estructura.",
+				"Orientación a Largo Plazo": "Alta, enfoque en la adaptabilidad y planificación a futuro.",
+				"Indulgencia": "Baja, tendencia a la restricción en deseos y gratificaciones."
+			}
+		},
+		{
+			"id": "LT",
+			"name": {
+				"en": "Lithuania",
+				"es": "Lituania"
+			},
+			"description": "ISO 3166-2 code: LT",
+			"dimensiones": {
+				"Distancia de Poder": 42,
+				"Individualismo": 55,
+				"Motivación hacia el Logro": 19,
+				"Evitación de Incertidumbre": 65,
+				"Orientación a Largo Plazo": 49,
+				"Indulgencia": 16
+			},
+			"explicación": {
+				"Distancia de Poder": "Baja, con tendencias hacia la igualdad y descentralización del poder.",
+				"Individualismo": "Moderado, enfoque en el núcleo familiar y individualidad.",
+				"Motivación hacia el Logro": "Baja, tienden a ser modestos y reservados.",
+				"Evitación de Incertidumbre": "Alta, preocupación por la estabilidad y las reglas claras.",
+				"Orientación a Largo Plazo": "Intermedia, un enfoque equilibrado en el pasado y presente.",
+				"Indulgencia": "Baja, restricciones en la gratificación y deseos personales."
+			}
+		},
+		{
+			"id": "LU",
+			"name": {
+				"en": "Luxembourg",
+				"es": "Luxemburgo"
+			},
+			"description": "ISO 3166-2 code: LU",
+			"dimensiones": {
+				"Distancia de Poder": 40,
+				"Individualismo": 60,
+				"Motivación hacia el Logro": 50,
+				"Evitación de Incertidumbre": 70,
+				"Orientación a Largo Plazo": 64,
+				"Indulgencia": 56
+			},
+			"explicación": {
+				"Distancia de Poder": "Baja, prefieren minimizar las desigualdades jerárquicas.",
+				"Individualismo": "Moderado, protegen valores como la propiedad privada y la familia.",
+				"Motivación hacia el Logro": "Intermedia, equilibrio entre logro personal y consensual.",
+				"Evitación de Incertidumbre": "Alta, buscan seguridad y control en la vida.",
+				"Orientación a Largo Plazo": "Alta, pragmatismo en adaptación a nuevas condiciones.",
+				"Indulgencia": "Moderada, equilibran deseos y gratificación personal."
+			}
+		},
+		{
+			"id": "MW",
+			"name": {
+				"en": "Malawi",
+				"es": "Malaui"
+			},
+			"description": "ISO 3166-2 code: MW",
+			"dimensiones": {
+				"Distancia de Poder": 70,
+				"Individualismo": 30,
+				"Motivación hacia el Logro": 40,
+				"Evitación de Incertidumbre": 50,
+				"Orientación a Largo Plazo": 0,
+				"Indulgencia": 0
+			},
+			"explicación": {
+				"Distancia de Poder": "Alta, aceptan la jerarquía y autoridad.",
+				"Individualismo": "Bajo, compromiso fuerte con las relaciones grupales.",
+				"Motivación hacia el Logro": "Baja, enfoque en calidad de vida sobre el éxito individual.",
+				"Evitación de Incertidumbre": "Intermedia, cierta flexibilidad en reglas.",
+				"Orientación a Largo Plazo": "No disponible.",
+				"Indulgencia": "No disponible."
+			}
+		},
+		{
+			"id": "MY",
+			"name": {
+				"en": "Malaysia",
+				"es": "Malasia"
+			},
+			"description": "ISO 3166-2 code: MY",
+			"dimensiones": {
+				"Distancia de Poder": 100,
+				"Individualismo": 27,
+				"Motivación hacia el Logro": 50,
+				"Evitación de Incertidumbre": 36,
+				"Orientación a Largo Plazo": 47,
+				"Indulgencia": 57
+			},
+			"explicación": {
+				"Distancia de Poder": "Muy alta, se aceptan jerarquías marcadas.",
+				"Individualismo": "Bajo, fuerte compromiso al grupo familiar.",
+				"Motivación hacia el Logro": "Intermedia, sin tendencia clara.",
+				"Evitación de Incertidumbre": "Baja, apertura hacia la innovación.",
+				"Orientación a Largo Plazo": "Moderada, adaptación a las condiciones.",
+				"Indulgencia": "Alta, disfrutan la vida y valoran el tiempo libre."
+			}
+		},
+		{
+			"id": "MT",
+			"name": {
+				"en": "Malta",
+				"es": "Malta"
+			},
+			"description": "ISO 3166-2 code: MT",
+			"dimensiones": {
+				"Distancia de Poder": 56,
+				"Individualismo": 59,
+				"Motivación hacia el Logro": 47,
+				"Evitación de Incertidumbre": 96,
+				"Orientación a Largo Plazo": 47,
+				"Indulgencia": 66
+			},
+			"explicación": {
+				"Distancia de Poder": "Moderada, se aceptan jerarquías pero hay espacio para la igualdad.",
+				"Individualismo": "Moderada, valores individuales y familiares.",
+				"Motivación hacia el Logro": "Intermedia, equilibrio entre éxito personal y colectivo.",
+				"Evitación de Incertidumbre": "Muy alta, buscan seguridad en reglas y normas.",
+				"Orientación a Largo Plazo": "Intermedia, adaptabilidad social.",
+				"Indulgencia": "Alta, disfrutan del ocio y satisfacen deseos personales."
+			}
+		},
+		{
+			"id": "MX",
+			"name": {
+				"en": "Mexico",
+				"es": "México"
+			},
+			"description": "ISO 3166-2 code: MX",
+			"dimensiones": {
+				"Distancia de Poder": 81,
+				"Individualismo": 34,
+				"Motivación hacia el Logro": 69,
+				"Evitación de Incertidumbre": 82,
+				"Orientación a Largo Plazo": 23,
+				"Indulgencia": 97
+			},
+			"explicación": {
+				"Distancia de Poder": "Alto, aceptación de jerarquías muy marcadas.",
+				"Individualismo": "Bajo, fuerte colectivismo y lealtad familiar.",
+				"Motivación hacia el Logro": "Alta, enfoque en el éxito y rendimiento.",
+				"Evitación de Incertidumbre": "Muy alta, necesidad de reglas y control.",
+				"Orientación a Largo Plazo": "Baja, prefieren resultados inmediatos.",
+				"Indulgencia": "Muy alta, disfrutan la vida y las gratificaciones personales."
+			}
+		},
+		{
+			"id": "ME",
+			"name": {
+				"en": "Montenegro",
+				"es": "Montenegro"
+			},
+			"description": "ISO 3166-2 code: ME",
+			"dimensiones": {
+				"Distancia de Poder": 88,
+				"Individualismo": 27,
+				"Motivación hacia el Logro": 48,
+				"Evitación de Incertidumbre": 90,
+				"Orientación a Largo Plazo": 35,
+				"Indulgencia": 35
+			},
+			"explicación": {
+				"Distancia de Poder": "Muy alta, jerarquías claramente aceptadas y respetadas.",
+				"Individualismo": "Bajo, fuerte compromiso a la lealtad grupal.",
+				"Motivación hacia el Logro": "Intermedia, equilibrio entre el éxito y la colaboración.",
+				"Evitación de Incertidumbre": "Muy alta, con necesidad de reglas claras.",
+				"Orientación a Largo Plazo": "Baja, enfoque en resultados inmediatos.",
+				"Indulgencia": "Moderada, control en la gratificación personal."
+			}
+		},
+		{
+			"id": "MA",
+			"name": {
+				"en": "Morocco",
+				"es": "Marruecos"
+			},
+			"description": "ISO 3166-2 code: MA",
+			"dimensiones": {
+				"Distancia de Poder": 70,
+				"Individualismo": 24,
+				"Motivación hacia el Logro": 53,
+				"Evitación de Incertidumbre": 68,
+				"Orientación a Largo Plazo": 25,
+				"Indulgencia": 25
+			},
+			"explicación": {
+				"Distancia de Poder": "Alto, se aceptan jerarquías y desigualdades sociales.",
+				"Individualismo": "Bajo, fuerte colectivismo con lealtad al grupo.",
+				"Motivación hacia el Logro": "Intermedia, sin tendencias culturales claras.",
+				"Evitación de Incertidumbre": "Alta, buscan seguridad y control sobre la ambigüedad.",
+				"Orientación a Largo Plazo": "Baja, prefieren resultados inmediatos.",
+				"Indulgencia": "Baja, tendencias hacia la restricción de la gratificación personal."
+			}
+		},
+		{
+			"id": "MZ",
+			"name": {
+				"en": "Mozambique",
+				"es": "Mozambique"
+			},
+			"description": "ISO 3166-2 code: MZ",
+			"dimensiones": {
+				"Distancia de Poder": 85,
+				"Individualismo": 15,
+				"Motivación hacia el Logro": 38,
+				"Evitación de Incertidumbre": 44,
+				"Orientación a Largo Plazo": 11,
+				"Indulgencia": 80
+			},
+			"explicación": {
+				"Distancia de Poder": "Muy alta, se aceptan jerarquías expresadas en la sociedad.",
+				"Individualismo": "Muy bajo, fuerte compromiso y lealtad al grupo.",
+				"Motivación hacia el Logro": "Baja, enfoque en consenso y bienestar colectivo.",
+				"Evitación de Incertidumbre": "Baja, apertura a la innovación y flexibilidad.",
+				"Orientación a Largo Plazo": "Baja, buscan resultados inmediatos.",
+				"Indulgencia": "Alta, valoran la gratificación y disfrute personal."
+			}
+		},
+		{
+			"id": "NA",
+			"name": {
+				"en": "Namibia",
+				"es": "Namibia"
+			},
+			"description": "ISO 3166-2 code: NA",
+			"dimensiones": {
+				"Distancia de Poder": 65,
+				"Individualismo": 30,
+				"Motivación hacia el Logro": 40,
+				"Evitación de Incertidumbre": 45,
+				"Orientación a Largo Plazo": 0,
+				"Indulgencia": 0
+			},
+			"explicación": {
+				"Distancia de Poder": "Moderada, aceptan jerarquías pero valoran la igualdad.",
+				"Individualismo": "Bajo, fuerte lealtad y compromiso al grupo.",
+				"Motivación hacia el Logro": "Baja, se enfocan más en el bienestar colectivo.",
+				"Evitación de Incertidumbre": "Intermedia, flexible en la aplicación de normas.",
+				"Orientación a Largo Plazo": "No disponible.",
+				"Indulgencia": "No disponible."
+			}
+		},
+		{
+			"id": "NP",
+			"name": {
+				"en": "Nepal",
+				"es": "Nepal"
+			},
+			"description": "ISO 3166-2 code: NP",
+			"dimensiones": {
+				"Distancia de Poder": 65,
+				"Individualismo": 30,
+				"Motivación hacia el Logro": 40,
+				"Evitación de Incertidumbre": 49,
+				"Orientación a Largo Plazo": 0,
+				"Indulgencia": 0
+			},
+			"explicación": {
+				"Distancia de Poder": "Moderada, se aceptan jerarquías en la sociedad.",
+				"Individualismo": "Bajo, fuerte compromiso a la comunidad y los grupos.",
+				"Motivación hacia el Logro": "Baja, más enfocados en la vida en comunidad.",
+				"Evitación de Incertidumbre": "Intermedia, se permite cierta flexibilidad en reglas.",
+				"Orientación a Largo Plazo": "No disponible.",
+				"Indulgencia": "No disponible."
+			}
+		},
+		{
+			"id": "NZ",
+			"name": {
+				"en": "New Zealand",
+				"es": "Nueva Zelanda"
+			},
+			"description": "ISO 3166-2 code: NZ",
+			"dimensiones": {
+				"Distancia de Poder": 22,
+				"Individualismo": 69,
+				"Motivación hacia el Logro": 58,
+				"Evitación de Incertidumbre": 49,
+				"Orientación a Largo Plazo": 55,
+				"Indulgencia": 75
+			},
+			"explicación": {
+				"Distancia de Poder": "Baja, la jerarquía es por conveniencia.",
+				"Individualismo": "Alto, valoran la responsabilidad individual.",
+				"Motivación hacia el Logro": "Alta, enfatizan el rendimiento y la competencia.",
+				"Evitación de Incertidumbre": "Intermedia, flexible en la aplicación de normas.",
+				"Orientación a Largo Plazo": "Moderada, adaptabilidad en valores y tradiciones.",
+				"Indulgencia": "Alta, disfrutan de la vida y valoran el ocio."
+			}
+		},
+		{
+			"id": "NG",
+			"name": {
+				"en": "Nigeria",
+				"es": "Nigeria"
+			},
+			"description": "ISO 3166-2 code: NG",
+			"dimensiones": {
+				"Distancia de Poder": 80,
+				"Individualismo": 0,
+				"Motivación hacia el Logro": 60,
+				"Evitación de Incertidumbre": 55,
+				"Orientación a Largo Plazo": 8,
+				"Indulgencia": 84
+			},
+			"explicación": {
+				"Distancia de Poder": "Alta, se aceptan jerarquías marcadas.",
+				"Individualismo": "Muy bajo, fuerte colectivismo y lealtad grupal.",
+				"Motivación hacia el Logro": "Alta, enfatizan el éxito y la competencia.",
+				"Evitación de Incertidumbre": "Intermedia, flexibilidad en reglas y aceptación de riesgos.",
+				"Orientación a Largo Plazo": "Baja, enfoque en resultados inmediatos.",
+				"Indulgencia": "Muy alta, disfrutan de la vida y se enfocan en la gratificación personal."
+			}
+		},
+		{
+			"id": "NO",
+			"name": {
+				"en": "Norway",
+				"es": "Noruega"
+			},
+			"description": "ISO 3166-2 code: NO",
+			"dimensiones": {
+				"Distancia de Poder": 31,
+				"Individualismo": 81,
+				"Motivación hacia el Logro": 8,
+				"Evitación de Incertidumbre": 50,
+				"Orientación a Largo Plazo": 55,
+				"Indulgencia": 55
+			},
+			"explicación": {
+				"Distancia de Poder": "Sociedad independiente con jerarquía solo por conveniencia; comunicación directa y participación en la toma de decisiones.",
+				"Individualismo": "Alta valoración del individualismo, con enfoque en opiniones personales y separación clara entre trabajo y vida privada.",
+				"Motivación hacia el Logro": "Prioriza el consenso y la solidaridad social sobre el logro individual, valorando aspectos culturales más suaves.",
+				"Evitación de Incertidumbre": "Puntuación intermedia, sin preferencia clara en esta dimensión.",
+				"Orientación a Largo Plazo": "Naturaleza relativamente pragmática, adaptable a cambios y enfocada en el ahorro y la perseverancia.",
+				"Indulgencia": "Demuestra un equilibrio adaptativo entre el control y la expresión de impulsos, manteniendo la estabilidad sin caer en patrones rígidos de comportamiento."
+			}
+		},
+		{
+			"id": "MK",
+			"name": {
+				"en": "North Macedonia",
+				"es": "Macedonia del Norte"
+			},
+			"description": "ISO 3166-2 code: MK",
+			"dimensiones": {
+				"Distancia de Poder": 90,
+				"Individualismo": 40,
+				"Motivación hacia el Logro": 45,
+				"Evitación de Incertidumbre": 87,
+				"Orientación a Largo Plazo": 35,
+				"Indulgencia": 35
+			},
+			"explicación": {
+				"Distancia de Poder": "Muy alta, aceptación de jerarquías sociales.",
+				"Individualismo": "Bajo, fuerte colectivismo y compromiso familiar.",
+				"Motivación hacia el Logro": "Intermedia, equilibrando el éxito y la colaboración.",
+				"Evitación de Incertidumbre": "Muy alta, necesidad de normas y estructuras claras.",
+				"Orientación a Largo Plazo": "Moderada, enfoque en resultados."
+			}
+		},
+		{
+			"id": "NO",
+			"name": {
+				"en": "Norway",
+				"es": "Noruega"
+			},
+			"description": "ISO 3166-2 code: NO",
+			"dimensiones": {
+				"Distancia de Poder": 31,
+				"Individualismo": 81,
+				"Motivación hacia el Logro": 8,
+				"Evitación de Incertidumbre": 50,
+				"Orientación a Largo Plazo": 55,
+				"Indulgencia": 55
+			},
+			"explicación": {
+				"Distancia de Poder": "Baja, jerarquía es por conveniencia, con un enfoque en la igualdad.",
+				"Individualismo": "Alto, valoran la auto-expresión y la privacidad.",
+				"Motivación hacia el Logro": "Baja, se enfocan en la cooperación y el bienestar social.",
+				"Evitación de Incertidumbre": "Intermedia, cierta flexibilidad en las reglas.",
+				"Orientación a Largo Plazo": "Moderada, adaptabilidad en la práctica social.",
+				"Indulgencia": "Moderada, equilibrando gratificaciones y deberes."
+			}
+		},
+		{
+			"id": "PK",
+			"name": {
+				"en": "Pakistan",
+				"es": "Pakistán"
+			},
+			"description": "ISO 3166-2 code: PK",
+			"dimensiones": {
+				"Distancia de Poder": 44,
+				"Individualismo": 5,
+				"Motivación hacia el Logro": 50,
+				"Evitación de Incertidumbre": 70,
+				"Orientación a Largo Plazo": 19,
+				"Indulgencia": 0
+			},
+			"explicación": {
+				"Distancia de Poder": "Moderada, jerarquías aceptadas dentro de la cultura.",
+				"Individualismo": "Bajo, fuerte colectivismo y lealtad familiar.",
+				"Motivación hacia el Logro": "Intermedia, sin tendencia clara hacia el logro.",
+				"Evitación de Incertidumbre": "Alta, buscan reglas y seguridad en la vida diaria.",
+				"Orientación a Largo Plazo": "Baja, enfoque en resultados inmediatos.",
+				"Indulgencia": "Muy baja, restricciones en la gratificación personal."
+			}
+		},
+		{
+			"id": "PA",
+			"name": {
+				"en": "Panama",
+				"es": "Panamá"
+			},
+			"description": "ISO 3166-2 code: PA",
+			"dimensiones": {
+				"Distancia de Poder": 95,
+				"Individualismo": 11,
+				"Motivación hacia el Logro": 44,
+				"Evitación de Incertidumbre": 86,
+				"Orientación a Largo Plazo": 0,
+				"Indulgencia": 0
+			},
+			"explicación": {
+				"Distancia de Poder": "Muy alta, aceptación de jerarquías sociales muy marcadas.",
+				"Individualismo": "Muy bajo, fuerte colectivismo y compromiso al grupo.",
+				"Motivación hacia el Logro": "Moderada, enfoque en la equidad y el consenso.",
+				"Evitación de Incertidumbre": "Muy alta, buscan normas claras y seguridad.",
+				"Orientación a Largo Plazo": "No disponible.",
+				"Indulgencia": "No disponible."
+			}
+		},
+		{
+			"id": "PY",
+			"name": {
+				"en": "Paraguay",
+				"es": "Paraguay"
+			},
+			"description": "ISO 3166-2 code: PY",
+			"dimensiones": {
+				"Distancia de Poder": 70,
+				"Individualismo": 12,
+				"Motivación hacia el Logro": 40,
+				"Evitación de Incertidumbre": 85,
+				"Orientación a Largo Plazo": 20,
+				"Indulgencia": 56
+			},
+			"explicación": {
+				"Distancia de Poder": "Alta, aceptación de jerarquías y status social.",
+				"Individualismo": "Bajo, fuerte compromiso al grupo y a la familia.",
+				"Motivación hacia el Logro": "Baja, enfoque en la modestia y el consenso.",
+				"Evitación de Incertidumbre": "Muy alta, necesitan seguir reglas y estructuras claras.",
+				"Orientación a Largo Plazo": "Baja, enfocados en resultados inmediatos.",
+				"Indulgencia": "Moderada, valoran la gratificación personal y el ocio."
+			}
+		},
+		{
+			"id": "PE",
+			"name": {
+				"en": "Peru",
+				"es": "Perú"
+			},
+			"description": "ISO 3166-2 code: PE",
+			"dimensiones": {
+				"Distancia de Poder": 67,
+				"Individualismo": 20,
+				"Motivación hacia el Logro": 42,
+				"Evitación de Incertidumbre": 87,
+				"Orientación a Largo Plazo": 5,
+				"Indulgencia": 46
+			},
+			"explicación": {
+				"Distancia de Poder": "Alta, aceptación de jerarquías firmes en la sociedad.",
+				"Individualismo": "Bajo, compromiso fuerte al grupo y lealtad familiar.",
+				"Motivación hacia el Logro": "Moderada, preferencia por la colaboración.",
+				"Evitación de Incertidumbre": "Muy alta, buscan seguridad a través de reglas claras.",
+				"Orientación a Largo Plazo": "Baja, enfoque en resultados inmediatos.",
+				"Indulgencia": "Moderada, equilibran deseo por gratificación y normas."
+			}
+		},
+		{
+			"id": "PH",
+			"name": {
+				"en": "Philippines",
+				"es": "Filipinas"
+			},
+			"description": "ISO 3166-2 code: PH",
+			"dimensiones": {
+				"Distancia de Poder": 94,
+				"Individualismo": 17,
+				"Motivación hacia el Logro": 64,
+				"Evitación de Incertidumbre": 44,
+				"Orientación a Largo Plazo": 46,
+				"Indulgencia": 42
+			},
+			"explicación": {
+				"Distancia de Poder": "Muy alta, se aceptan jerarquías marcadas en la sociedad.",
+				"Individualismo": "Bajo, fuerte colectivismo y lealtad al grupo.",
+				"Motivación hacia el Logro": "Alta, valoran el éxito individual y la competencia.",
+				"Evitación de Incertidumbre": "Moderada, flexibilidad en reglas.",
+				"Orientación a Largo Plazo": "Moderada, combinan tradición y modernidad.",
+				"Indulgencia": "Baja, restricciones en la gratificación personal."
+			}
+		},
+		{
+			"id": "PL",
+			"name": {
+				"en": "Poland",
+				"es": "Polonia"
+			},
+			"description": "ISO 3166-2 code: PL",
+			"dimensiones": {
+				"Distancia de Poder": 68,
+				"Individualismo": 47,
+				"Motivación hacia el Logro": 64,
+				"Evitación de Incertidumbre": 93,
+				"Orientación a Largo Plazo": 49,
+				"Indulgencia": 29
+			},
+			"explicación": {
+				"Distancia de Poder": "Alta, aceptación de jerarquías en la sociedad.",
+				"Individualismo": "Moderada, sin preferencias fuertes en cualquiera de los extremos.",
+				"Motivación hacia el Logro": "Alta, valoran el éxito y la competencia.",
+				"Evitación de Incertidumbre": "Muy alta, buscan reglas y estructuras claras.",
+				"Orientación a Largo Plazo": "Moderada, adaptable a diferentes situaciones.",
+				"Indulgencia": "Baja, tendencia a la restricción de gratificaciones personales."
+			}
+		},
+		{
+			"id": "PT",
+			"name": {
+				"en": "Portugal",
+				"es": "Portugal"
+			},
+			"description": "ISO 3166-2 code: PT",
+			"dimensiones": {
+				"Distancia de Poder": 63,
+				"Individualismo": 59,
+				"Motivación hacia el Logro": 31,
+				"Evitación de Incertidumbre": 99,
+				"Orientación a Largo Plazo": 42,
+				"Indulgencia": 33
+			},
+			"explicación": {
+				"Distancia de Poder": "Alta, jerarquías aceptadas con privilegios para los poderosos.",
+				"Individualismo": "Moderada, responsabilidad individual con un enfoque hacia la familia.",
+				"Motivación hacia el Logro": "Baja, se enfoca en el consenso y la colaboración.",
+				"Evitación de Incertidumbre": "Muy alta, fuerte necesidad de reglas y seguridad.",
+				"Orientación a Largo Plazo": "Moderada, respeto por la tradición y flexibilidad.",
+				"Indulgencia": "Baja, con tendencia a la restricción en la satisfacción personal."
+			}
+		},
+		{
+			"id": "PR",
+			"name": {
+				"en": "Puerto Rico",
+				"es": "Puerto Rico"
+			},
+			"description": "ISO 3166-2 code: PR",
+			"dimensiones": {
+				"Distancia de Poder": 68,
+				"Individualismo": 43,
+				"Motivación hacia el Logro": 56,
+				"Evitación de Incertidumbre": 38,
+				"Orientación a Largo Plazo": 27,
+				"Indulgencia": 90
+			},
+			"explicación": {
+				"Distancia de Poder": "Alta, aceptación de jerarquías firmes.",
+				"Individualismo": "Moderada, fuerte lealtad al grupo familiar.",
+				"Motivación hacia el Logro": "Intermedia, con tendencias hacia la cooperación.",
+				"Evitación de Incertidumbre": "Baja, flexibilidad en la planificación y disposición al riesgo.",
+				"Orientación a Largo Plazo": "Baja, enfocándose en gratificación inmediata.",
+				"Indulgencia": "Muy alta, valoran el disfrute y la gratificación personal."
+			}
+		},
+		{
+			"id": "QA",
+			"name": {
+				"en": "Qatar",
+				"es": "Catar"
+			},
+			"description": "ISO 3166-2 code: QA",
+			"dimensiones": {
+				"Distancia de Poder": 93,
+				"Individualismo": 18,
+				"Motivación hacia el Logro": 55,
+				"Evitación de Incertidumbre": 80,
+				"Orientación a Largo Plazo": 0,
+				"Indulgencia": 14
+			},
+			"explicación": {
+				"Distancia de Poder": "Muy alta, se acepta una jerarquía centralizada.",
+				"Individualismo": "Bajo, fuerte lealtad al grupo y enfoque en relaciones.",
+				"Motivación hacia el Logro": "Moderada, con énfasis en el trabajo y la competitividad.",
+				"Evitación de Incertidumbre": "Alta, fuerte necesidad de reglas y estructura.",
+				"Orientación a Largo Plazo": "No disponible.",
+				"Indulgencia": "Baja, restricciones en la satisfacción de deseos personales."
+			}
+		},
+		{
+			"id": "RO",
+			"name": {
+				"en": "Romania",
+				"es": "Rumania"
+			},
+			"description": "ISO 3166-2 code: RO",
+			"dimensiones": {
+				"Distancia de Poder": 90,
+				"Individualismo": 46,
+				"Motivación hacia el Logro": 42,
+				"Evitación de Incertidumbre": 90,
+				"Orientación a Largo Plazo": 32,
+				"Indulgencia": 20
+			},
+			"explicación": {
+				"Distancia de Poder": "Muy alta, aceptación de jerarquías en la sociedad.",
+				"Individualismo": "Moderada, compromiso al grupo y las relaciones familiares.",
+				"Motivación hacia el Logro": "Moderada, enfoque en el consenso en lugar de la competencia.",
+				"Evitación de Incertidumbre": "Muy alta, buscan reglas claras y seguridad.",
+				"Orientación a Largo Plazo": "Baja, preferencia por resultados inmediatos.",
+				"Indulgencia": "Muy baja, con limitaciones en la gratificación personal."
+			}
+		},
+		{
+			"id": "GB",
+			"name": {
+				"en": "United Kingdom",
+				"es": "Reino Unido"
+			},
+			"description": "ISO 3166-2 code: GB",
+			"dimensiones": {
+				"Distancia de Poder": 36,
+				"Individualismo": 76,
+				"Motivación hacia el Logro": 66,
+				"Evitación de Incertidumbre": 35,
+				"Orientación a Largo Plazo": 60,
+				"Indulgencia": 69
+			},
+			"explicación": {
+				"Distancia de Poder": "Baja, con una fuerte creencia en la igualdad y un sentido de 'fair play'.",
+				"Individualismo": "Alto, priorizan los derechos y la independencia del individuo sobre la colectividad.",
+				"Motivación hacia el Logro": "Alta, valoran el éxito personal y la ambición como motores sociales.",
+				"Evitación de Incertidumbre": "Baja, muestran flexibilidad y comodidad ante la incertidumbre.",
+				"Orientación a Largo Plazo": "Moderada, balancean la planificación a largo plazo con un enfoque flexible hacia el futuro.",
+				"Indulgencia": "Alta, fomentan la gratificación personal y el disfrute de la vida."
+			}
+		},
+		{
+			"id": "RU",
+			"name": {
+				"en": "Russia",
+				"es": "Rusia"
+			},
+			"description": "ISO 3166-2 code: RU",
+			"dimensiones": {
+				"Distancia de Poder": 93,
+				"Individualismo": 46,
+				"Motivación hacia el Logro": 36,
+				"Evitación de Incertidumbre": 95,
+				"Orientación a Largo Plazo": 58,
+				"Indulgencia": 20
+			},
+			"explicación": {
+				"Distancia de Poder": "Muy alta, aceptación de jerarquías y concentración de poder.",
+				"Individualismo": "Moderada, importancia de la familia y relaciones cercanas.",
+				"Motivación hacia el Logro": "Baja, a menudo se subestiman logros personales.",
+				"Evitación de Incertidumbre": "Muy alta, fuerte necesidad de reglas y claridad.",
+				"Orientación a Largo Plazo": "Moderada, adaptabilidad en tradiciones y prácticas.",
+				"Indulgencia": "Baja, tendiendo a la restricción de deseos personales."
+			}
+		},
+		{
+			"id": "ST",
+			"name": {
+				"en": "São Tomé and Príncipe",
+				"es": "São Tomé y Príncipe"
+			},
+			"description": "ISO 3166-2 code: ST",
+			"dimensiones": {
+				"Distancia de Poder": 75,
+				"Individualismo": 37,
+				"Motivación hacia el Logro": 24,
+				"Evitación de Incertidumbre": 70,
+				"Orientación a Largo Plazo": 32,
+				"Indulgencia": 41
+			},
+			"explicación": {
+				"Distancia de Poder": "Alta, aceptación de jerarquías sociales claras.",
+				"Individualismo": "Bajo, fuerte lealtad al grupo y la comunidad.",
+				"Motivación hacia el Logro": "Baja, enfoque en el consenso y la cooperación.",
+				"Evitación de Incertidumbre": "Alta, firme necesidad de reglas y estabilidad.",
+				"Orientación a Largo Plazo": "Moderada, respeto por tradiciones.",
+				"Indulgencia": "Moderada, hay gratificación pero con restricciones."
+			}
+		},
+		{
+			"id": "SA",
+			"name": {
+				"en": "Saudi Arabia",
+				"es": "Arabia Saudita"
+			},
+			"description": "ISO 3166-2 code: SA",
+			"dimensiones": {
+				"Distancia de Poder": 72,
+				"Individualismo": 48,
+				"Motivación hacia el Logro": 43,
+				"Evitación de Incertidumbre": 64,
+				"Orientación a Largo Plazo": 27,
+				"Indulgencia": 14
+			},
+			"explicación": {
+				"Distancia de Poder": "Alta, aceptación de jerarquías en todas las áreas.",
+				"Individualismo": "Moderada, con un enfoque en la lealtad al grupo.",
+				"Motivación hacia el Logro": "Moderada, énfasis en el consenso.",
+				"Evitación de Incertidumbre": "Alta, buscan reglas claras y seguridad laboral.",
+				"Orientación a Largo Plazo": "Baja, preferencia por resultados inmediatos.",
+				"Indulgencia": "Baja, restricciones en la gratificación personal."
+			}
+		},
+		{
+			"id": "SN",
+			"name": {
+				"en": "Senegal",
+				"es": "Senegal"
+			},
+			"description": "ISO 3166-2 code: SN",
+			"dimensiones": {
+				"Distancia de Poder": 70,
+				"Individualismo": 25,
+				"Motivación hacia el Logro": 45,
+				"Evitación de Incertidumbre": 55,
+				"Orientación a Largo Plazo": 25,
+				"Indulgencia": 0
+			},
+			"explicación": {
+				"Distancia de Poder": "Alta, aceptación de jerarquías sociales.",
+				"Individualismo": "Bajo, fuerte enfoque en la colectividad.",
+				"Motivación hacia el Logro": "Moderada, énfasis en el bienestar colectivo.",
+				"Evitación de Incertidumbre": "Intermedia, flexibilidad en la gestión de reglas.",
+				"Orientación a Largo Plazo": "Baja, preferencia por satisfacciones inmediatas.",
+				"Indulgencia": "No disponible."
+			}
+		},
+		{
+			"id": "RS",
+			"name": {
+				"en": "Serbia",
+				"es": "Serbia"
+			},
+			"description": "ISO 3166-2 code: RS",
+			"dimensiones": {
+				"Distancia de Poder": 86,
+				"Individualismo": 42,
+				"Motivación hacia el Logro": 43,
+				"Evitación de Incertidumbre": 92,
+				"Orientación a Largo Plazo": 37,
+				"Indulgencia": 28
+			},
+			"explicación": {
+				"Distancia de Poder": "Alta, aceptación de jerarquías sin necesidad de justificación.",
+				"Individualismo": "Moderada, fuerte compromiso con el grupo familiar.",
+				"Motivación hacia el Logro": "Moderada, enfoque en el consenso.",
+				"Evitación de Incertidumbre": "Muy alta, necesidad de reglas y estructura definidas.",
+				"Orientación a Largo Plazo": "Baja, preferencia por resultados inmediatos.",
+				"Indulgencia": "Baja, control en la gratificación de deseos personales."
+			}
+		},
+		{
+			"id": "SL",
+			"name": {
+				"en": "Sierra Leone",
+				"es": "Sierra Leona"
+			},
+			"description": "ISO 3166-2 code: SL",
+			"dimensiones": {
+				"Distancia de Poder": 70,
+				"Individualismo": 20,
+				"Motivación hacia el Logro": 40,
+				"Evitación de Incertidumbre": 50,
+				"Orientación a Largo Plazo": 0,
+				"Indulgencia": 0
+			},
+			"explicación": {
+				"Distancia de Poder": "Alta, aceptación de jerarquías y estructura organizacional.",
+				"Individualismo": "Bajo, fuerte lealtad al grupo y la comunidad.",
+				"Motivación hacia el Logro": "Baja, con enfoque en la cooperación y el consenso.",
+				"Evitación de Incertidumbre": "Intermedia, relación relajada con las reglas.",
+				"Orientación a Largo Plazo": "No disponible.",
+				"Indulgencia": "No disponible."
+			}
+		},
+		{
+			"id": "SG",
+			"name": {
+				"en": "Singapore",
+				"es": "Singapur"
+			},
+			"description": "ISO 3166-2 code: SG",
+			"dimensiones": {
+				"Distancia de Poder": 74,
+				"Individualismo": 43,
+				"Motivación hacia el Logro": 48,
+				"Evitación de Incertidumbre": 8,
+				"Orientación a Largo Plazo": 67,
+				"Indulgencia": 46
+			},
+			"explicación": {
+				"Distancia de Poder": "Alta, aceptación de jerarquías y control centralizado.",
+				"Individualismo": "Moderada, fuerte enfoque en las relaciones familiares.",
+				"Motivación hacia el Logro": "Intermedia, foco en la acción y logros.",
+				"Evitación de Incertidumbre": "Baja, flexibilidad en las reglas y disposición al cambio.",
+				"Orientación a Largo Plazo": "Alta, enfocada en la perseverancia y el ahorro.",
+				"Indulgencia": "Moderada, equilibrio entre necesidad de gratificación y responsabilidades."
+			}
+		},
+		{
+			"id": "SK",
+			"name": {
+				"en": "Slovakia",
+				"es": "Eslovaquia"
+			},
+			"description": "ISO 3166-2 code: SK",
+			"dimensiones": {
+				"Distancia de Poder": 100,
+				"Individualismo": 57,
+				"Motivación hacia el Logro": 100,
+				"Evitación de Incertidumbre": 51,
+				"Orientación a Largo Plazo": 53,
+				"Indulgencia": 28
+			},
+			"explicación": {
+				"Distancia de Poder": "Muy alta, aceptación del poder jerárquico y centralización.",
+				"Individualismo": "Moderada, preferencia por interacciones más autónomas.",
+				"Motivación hacia el Logro": "Muy alta, fuerte énfasis en el éxito y la competencia.",
+				"Evitación de Incertidumbre": "Intermedia, flexibilidad en la adaptación de normas.",
+				"Orientación a Largo Plazo": "Moderada, adaptabilidad a condiciones cambiantes.",
+				"Indulgencia": "Baja, con restricciones sobre la satisfacción de deseos."
+			}
+		},
+		{
+			"id": "SI",
+			"name": {
+				"en": "Slovenia",
+				"es": "Eslovenia"
+			},
+			"description": "ISO 3166-2 code: SI",
+			"dimensiones": {
+				"Distancia de Poder": 71,
+				"Individualismo": 81,
+				"Motivación hacia el Logro": 19,
+				"Evitación de Incertidumbre": 88,
+				"Orientación a Largo Plazo": 50,
+				"Indulgencia": 48
+			},
+			"explicación": {
+				"Distancia de Poder": "Alta, aceptación de jerarquías sociales prevalentes.",
+				"Individualismo": "Alta, valoran la autoconfianza y la independencia.",
+				"Motivación hacia el Logro": "Baja, foco en el consenso y las relaciones interpersonales.",
+				"Evitación de Incertidumbre": "Muy alta, buscan reglas y normas claras.",
+				"Orientación a Largo Plazo": "Moderada, combinan tradición y modernidad.",
+				"Indulgencia": "Moderada, equilibrio en la satisfacción de deseos."
+			}
+		},
+		{
+			"id": "ZA",
+			"name": {
+				"en": "South Africa",
+				"es": "Sudáfrica"
+			},
+			"description": "ISO 3166-2 code: ZA",
+			"dimensiones": {
+				"Distancia de Poder": 49,
+				"Individualismo": 23,
+				"Motivación hacia el Logro": 63,
+				"Evitación de Incertidumbre": 49,
+				"Orientación a Largo Plazo": 18,
+				"Indulgencia": 63
+			},
+			"explicación": {
+				"Distancia de Poder": "Moderada, aceptación de jerarquías organizacionales.",
+				"Individualismo": "Bajo, fuerte lealtad y compromiso comunitario.",
+				"Motivación hacia el Logro": "Alta, enfoque en el éxito y desempeño.",
+				"Evitación de Incertidumbre": "Intermedia, flexibilidad en la aplicación de normas.",
+				"Orientación a Largo Plazo": "Baja, preferencia por resultados inmediatos.",
+				"Indulgencia": "Alta, gozan de gratificación personal y ocio."
+			}
+		},
+		{
+			"id": "KR",
+			"name": {
+				"en": "South Korea",
+				"es": "Corea del Sur"
+			},
+			"description": "ISO 3166-2 code: KR",
+			"dimensiones": {
+				"Distancia de Poder": 60,
+				"Individualismo": 58,
+				"Motivación hacia el Logro": 39,
+				"Evitación de Incertidumbre": 85,
+				"Orientación a Largo Plazo": 86,
+				"Indulgencia": 29
+			},
+			"explicación": {
+				"Distancia de Poder": "Moderada, aceptación de jerarquías organizacionales.",
+				"Individualismo": "Moderada, esperan responsabilidad individual y trabajo en equipo.",
+				"Motivación hacia el Logro": "Baja, se enfocan en la cooperación más que en la competencia.",
+				"Evitación de Incertidumbre": "Muy alta, buscan firmeza en reglas y procesos.",
+				"Orientación a Largo Plazo": "Alta, valoran la perseverancia y adaptabilidad.",
+				"Indulgencia": "Baja, restricciones en la gratificación personal."
+			}
+		},
+		{
+			"id": "ES",
+			"name": {
+				"en": "Spain",
+				"es": "España"
+			},
+			"description": "ISO 3166-2 code: ES",
+			"dimensiones": {
+				"Distancia de Poder": 57,
+				"Individualismo": 67,
+				"Motivación hacia el Logro": 42,
+				"Evitación de Incertidumbre": 86,
+				"Orientación a Largo Plazo": 51,
+				"Indulgencia": 44
+			},
+			"explicación": {
+				"Distancia de Poder": "Moderada, se acepta una jerarquía organizacional.",
+				"Individualismo": "Alto, fuerte independencia y responsabilidades individuales.",
+				"Motivación hacia el Logro": "Moderada, enfocándose en la armonía y el consenso.",
+				"Evitación de Incertidumbre": "Alta, buscan reglas claras y evitan ambigüedades.",
+				"Orientación a Largo Plazo": "Moderada, combinan tradición y modernidad.",
+				"Indulgencia": "Moderada, disfrutan de la vida pero controlan gratificaciones."
+			}
+		},
+		{
+			"id": "LK",
+			"name": {
+				"en": "Sri Lanka",
+				"es": "Sri Lanka"
+			},
+			"description": "ISO 3166-2 code: LK",
+			"dimensiones": {
+				"Distancia de Poder": 80,
+				"Individualismo": 35,
+				"Motivación hacia el Logro": 10,
+				"Evitación de Incertidumbre": 45,
+				"Orientación a Largo Plazo": 45,
+				"Indulgencia": null
+			},
+			"explicación": {
+				"Distancia de Poder": "Alta, aceptación de jerarquías en la sociedad.",
+				"Individualismo": "Bajo, fuerte compromiso con el grupo y la familia.",
+				"Motivación hacia el Logro": "Baja, enfoque en la modestia y el consenso.",
+				"Evitación de Incertidumbre": "Moderada, flexibilidad en la aplicación de normas.",
+				"Orientación a Largo Plazo": "Moderada, adaptabilidad en la planificación.",
+				"Indulgencia": "No disponible."
+			}
+		},
+		{
+			"id": "SR",
+			"name": {
+				"en": "Suriname",
+				"es": "Surinam"
+			},
+			"description": "ISO 3166-2 code: SR",
+			"dimensiones": {
+				"Distancia de Poder": 85,
+				"Individualismo": 47,
+				"Motivación hacia el Logro": 37,
+				"Evitación de Incertidumbre": 92,
+				"Orientación a Largo Plazo": null,
+				"Indulgencia": null
+			},
+			"explicación": {
+				"Distancia de Poder": "Alta, aceptación de jerarquías en la sociedad.",
+				"Individualismo": "Moderada, valoran la independencia y la responsabilidad individual.",
+				"Motivación hacia el Logro": "Moderada, enfoque en el consenso y la colaboración.",
+				"Evitación de Incertidumbre": "Muy alta, buscan reglas claras y seguridad.",
+				"Orientación a Largo Plazo": "No disponible.",
+				"Indulgencia": "No disponible."
+			}
+		},
+		{
+			"id": "SE",
+			"name": {
+				"en": "Sweden",
+				"es": "Suecia"
+			},
+			"description": "ISO 3166-2 code: SE",
+			"dimensiones": {
+				"Distancia de Poder": 31,
+				"Individualismo": 87,
+				"Motivación hacia el Logro": 5,
+				"Evitación de Incertidumbre": 29,
+				"Orientación a Largo Plazo": 53,
+				"Indulgencia": 78
+			},
+			"explicación": {
+				"Distancia de Poder": "Baja, jerarquía es por conveniencia, con un enfoque en la igualdad.",
+				"Individualismo": "Alto, valoran la auto-expresión y la privacidad.",
+				"Motivación hacia el Logro": "Baja, se enfocan en la cooperación y el bienestar social.",
+				"Evitación de Incertidumbre": "Baja, cómodos con la ambigüedad.",
+				"Orientación a Largo Plazo": "Moderada, adaptabilidad en la práctica social.",
+				"Indulgencia": "Alta, disfrutan de la vida y valoran el ocio."
+			}
+		},
+		{
+			"id": "CH",
+			"name": {
+				"en": "Switzerland",
+				"es": "Suiza"
+			},
+			"description": "ISO 3166-2 code: CH",
+			"dimensiones": {
+				"Distancia de Poder": 34,
+				"Individualismo": 79,
+				"Motivación hacia el Logro": 70,
+				"Evitación de Incertidumbre": 58,
+				"Orientación a Largo Plazo": 42,
+				"Indulgencia": 66
+			},
+			"explicación": {
+				"Distancia de Poder": "Baja, prefieren estructuras planas y accesibles.",
+				"Individualismo": "Alto, valoran la independencia y la responsabilidad personal.",
+				"Motivación hacia el Logro": "Alta, enfoque en el rendimiento y la competencia.",
+				"Evitación de Incertidumbre": "Moderada, buscan reglas claras y seguridad.",
+				"Orientación a Largo Plazo": "Moderada, adaptabilidad en la planificación.",
+				"Indulgencia": "Alta, disfrutan de la vida y valoran el ocio."
+			}
+		},
+		{
+			"id": "SY",
+			"name": {
+				"en": "Syria",
+				"es": "Siria"
+			},
+			"description": "ISO 3166-2 code: SY",
+			"dimensiones": {
+				"Distancia de Poder": 80,
+				"Individualismo": 35,
+				"Motivación hacia el Logro": 52,
+				"Evitación de Incertidumbre": 60,
+				"Orientación a Largo Plazo": 30,
+				"Indulgencia": null
+			},
+			"explicación": {
+				"Distancia de Poder": "Alta, aceptación de jerarquías en la sociedad.",
+				"Individualismo": "Bajo, fuerte compromiso con el grupo y la familia.",
+				"Motivación hacia el Logro": "Moderada, enfoque en el éxito y la competencia.",
+				"Evitación de Incertidumbre": "Alta, buscan reglas claras y seguridad.",
+				"Orientación a Largo Plazo": "Baja, preferencia por resultados inmediatos.",
+				"Indulgencia": "No disponible."
+			}
+		},
+		{
+			"id": "TW",
+			"name": {
+				"en": "Taiwan",
+				"es": "Taiwán"
+			},
+			"description": "ISO 3166-2 code: TW",
+			"dimensiones": {
+				"Distancia de Poder": 58,
+				"Individualismo": 40,
+				"Motivación hacia el Logro": 45,
+				"Evitación de Incertidumbre": 69,
+				"Orientación a Largo Plazo": 87,
+				"Indulgencia": 49
+			},
+			"explicación": {
+				"Distancia de Poder": "Moderada, aceptación de jerarquías en la sociedad.",
+				"Individualismo": "Moderada, valoran la independencia y la responsabilidad individual.",
+				"Motivación hacia el Logro": "Moderada, enfoque en el éxito y la competencia.",
+				"Evitación de Incertidumbre": "Alta, buscan reglas claras y seguridad.",
+				"Orientación a Largo Plazo": "Alta, enfoque en la perseverancia y el ahorro.",
+				"Indulgencia": "Moderada, equilibrio entre necesidad de gratificación y responsabilidades."
+			}
+		},
+		{
+			"id": "TZ",
+			"name": {
+				"en": "Tanzania",
+				"es": "Tanzania"
+			},
+			"description": "ISO 3166-2 code: TZ",
+			"dimensiones": {
+				"Distancia de Poder": 70,
+				"Individualismo": 25,
+				"Motivación hacia el Logro": 40,
+				"Evitación de Incertidumbre": 50,
+				"Orientación a Largo Plazo": 34,
+				"Indulgencia": 38
+			},
+			"explicación": {
+				"Distancia de Poder": "Alta, aceptación de jerarquías en la sociedad.",
+				"Individualismo": "Bajo, fuerte compromiso con el grupo y la familia.",
+				"Motivación hacia el Logro": "Baja, enfoque en la modestia y el consenso.",
+				"Evitación de Incertidumbre": "Moderada, flexibilidad en la aplicación de normas.",
+				"Orientación a Largo Plazo": "Moderada, adaptabilidad en la planificación.",
+				"Indulgencia": "Moderada, equilibrio entre necesidad de gratificación y responsabilidades."
+			}
+		},
+		{
+			"id": "TH",
+			"name": {
+				"en": "Thailand",
+				"es": "Tailandia"
+			},
+			"description": "ISO 3166-2 code: TH",
+			"dimensiones": {
+				"Distancia de Poder": 64,
+				"Individualismo": 19,
+				"Motivación hacia el Logro": 34,
+				"Evitación de Incertidumbre": 64,
+				"Orientación a Largo Plazo": 67,
+				"Indulgencia": 45
+			},
+			"explicación": {
+				"Distancia de Poder": "Moderada, aceptación de jerarquías en la sociedad.",
+				"Individualismo": "Bajo, fuerte compromiso con el grupo y la familia.",
+				"Motivación hacia el Logro": "Baja, enfoque en la modestia y el consenso.",
+				"Evitación de Incertidumbre": "Alta, buscan reglas claras y seguridad.",
+				"Orientación a Largo Plazo": "Alta, enfoque en la perseverancia y el ahorro.",
+				"Indulgencia": "Moderada, equilibrio entre necesidad de gratificación y responsabilidades."
+			}
+		},
+		{
+			"id": "TT",
+			"name": {
+				"en": "Trinidad and Tobago",
+				"es": "Trinidad y Tobago"
+			},
+			"description": "ISO 3166-2 code: TT",
+			"dimensiones": {
+				"Distancia de Poder": 47,
+				"Individualismo": 25,
+				"Motivación hacia el Logro": 58,
+				"Evitación de Incertidumbre": 55,
+				"Orientación a Largo Plazo": 17,
+				"Indulgencia": 80
+			},
+			"explicación": {
+				"Distancia de Poder": "Moderada, aceptación de jerarquías en la sociedad.",
+				"Individualismo": "Bajo, fuerte compromiso con el grupo y la familia.",
+				"Motivación hacia el Logro": "Alta, enfoque en el éxito y la competencia.",
+				"Evitación de Incertidumbre": "Moderada, flexibilidad en la aplicación de normas.",
+				"Orientación a Largo Plazo": "Baja, preferencia por resultados inmediatos.",
+				"Indulgencia": "Alta, disfrutan de la vida y valoran el ocio."
+			}
+		},
+		{
+			"id": "TN",
+			"name": {
+				"en": "Tunisia",
+				"es": "Túnez"
+			},
+			"description": "ISO 3166-2 code: TN",
+			"dimensiones": {
+				"Distancia de Poder": 70,
+				"Individualismo": 27,
+				"Motivación hacia el Logro": 40,
+				"Evitación de Incertidumbre": 75,
+				"Orientación a Largo Plazo": 24,
+				"Indulgencia": null
+			},
+			"explicación": {
+				"Distancia de Poder": "Alta, aceptación de jerarquías en la sociedad.",
+				"Individualismo": "Bajo, fuerte compromiso con el grupo y la familia.",
+				"Motivación hacia el Logro": "Baja, enfoque en la modestia y el consenso.",
+				"Evitación de Incertidumbre": "Alta, buscan reglas claras y seguridad.",
+				"Orientación a Largo Plazo": "Baja, preferencia por resultados inmediatos.",
+				"Indulgencia": "No disponible."
+			}
+		},
+		{
+			"id": "TR",
+			"name": {
+				"en": "Turkey",
+				"es": "Turquía"
+			},
+			"description": "ISO 3166-2 code: TR",
+			"dimensiones": {
+				"Distancia de Poder": 66,
+				"Individualismo": 46,
+				"Motivación hacia el Logro": 45,
+				"Evitación de Incertidumbre": 85,
+				"Orientación a Largo Plazo": 35,
+				"Indulgencia": null
+			},
+			"explicación": {
+				"Distancia de Poder": "Moderada, aceptación de jerarquías en la sociedad.",
+				"Individualismo": "Moderada, valoran la independencia y la responsabilidad individual.",
+				"Motivación hacia el Logro": "Moderada, enfoque en el éxito y la competencia.",
+				"Evitación de Incertidumbre": "Alta, buscan reglas claras y seguridad.",
+				"Orientación a Largo Plazo": "Moderada, adaptabilidad en la planificación.",
+				"Indulgencia": "No disponible."
+			}
+		},
+		{
+			"id": "UA",
+			"name": {
+				"en": "Ukraine",
+				"es": "Ucrania"
+			},
+			"description": "ISO 3166-2 code: UA",
+			"dimensiones": {
+				"Distancia de Poder": 92,
+				"Individualismo": 55,
+				"Motivación hacia el Logro": 27,
+				"Evitación de Incertidumbre": 95,
+				"Orientación a Largo Plazo": 51,
+				"Indulgencia": 14
+			},
+			"explicación": {
+				"Distancia de Poder": "Muy alta, aceptación de jerarquías en la sociedad.",
+				"Individualismo": "Moderada, valoran la independencia y la responsabilidad individual.",
+				"Motivación hacia el Logro": "Baja, enfoque en la modestia y el consenso.",
+				"Evitación de Incertidumbre": "Muy alta, buscan reglas claras y seguridad.",
+				"Orientación a Largo Plazo": "Moderada, adaptabilidad en la planificación.",
+				"Indulgencia": "Baja, tendencia a la restricción de deseos personales."
+			}
+		},
+		{
+			"id": "AE",
+			"name": {
+				"en": "United Arab Emirates",
+				"es": "Emiratos Árabes Unidos"
+			},
+			"description": "ISO 3166-2 code: AE",
+			"dimensiones": {
+				"Distancia de Poder": 74,
+				"Individualismo": 36,
+				"Motivación hacia el Logro": 52,
+				"Evitación de Incertidumbre": 66,
+				"Orientación a Largo Plazo": 22,
+				"Indulgencia": 22
+			},
+			"explicación": {
+				"Distancia de Poder": "Alta, aceptación de jerarquías en la sociedad.",
+				"Individualismo": "Bajo, fuerte compromiso con el grupo y la familia.",
+				"Motivación hacia el Logro": "Moderada, enfoque en el éxito y la competencia.",
+				"Evitación de Incertidumbre": "Alta, buscan reglas claras y seguridad.",
+				"Orientación a Largo Plazo": "Baja, preferencia por resultados inmediatos.",
+				"Indulgencia": "Baja, tendencia a la restricción de deseos personales."
+			}
+		},
+		{
+			"id": "GB",
+			"name": {
+				"en": "United Kingdom",
+				"es": "Reino Unido"
+			},
+			"description": "ISO 3166-2 code: GB",
+			"dimensiones": {
+				"Distancia de Poder": 35,
+				"Individualismo": 76,
+				"Motivación hacia el Logro": 66,
+				"Evitación de Incertidumbre": 35,
+				"Orientación a Largo Plazo": 60,
+				"Indulgencia": 69
+			},
+			"explicación": {
+				"Distancia de Poder": "Baja, jerarquía es por conveniencia, con un enfoque en la igualdad.",
+				"Individualismo": "Alto, valoran la independencia y la responsabilidad individual.",
+				"Motivación hacia el Logro": "Alta, enfoque en el rendimiento y la competencia.",
+				"Evitación de Incertidumbre": "Baja, cómodos con la ambigüedad.",
+				"Orientación a Largo Plazo": "Moderada, adaptabilidad en la planificación.",
+				"Indulgencia": "Alta, disfrutan de la vida y valoran el ocio."
+			}
+		},
+		{
+			"id": "US",
+			"name": {
+				"en": "United States",
+				"es": "Estados Unidos"
+			},
+			"description": "ISO 3166-2 code: US",
+			"dimensiones": {
+				"Distancia de Poder": 40,
+				"Individualismo": 60,
+				"Motivación hacia el Logro": 62,
+				"Evitación de Incertidumbre": 46,
+				"Orientación a Largo Plazo": 50,
+				"Indulgencia": 68
+			},
+			"explicación": {
+				"Distancia de Poder": "Baja, jerarquía es por conveniencia, con un enfoque en la igualdad.",
+				"Individualismo": "Alto, valoran la independencia y la responsabilidad individual.",
+				"Motivación hacia el Logro": "Alta, enfoque en el rendimiento y la competencia.",
+				"Evitación de Incertidumbre": "Baja, cómodos con la ambigüedad.",
+				"Orientación a Largo Plazo": "Moderada, adaptabilidad en la planificación.",
+				"Indulgencia": "Alta, disfrutan de la vida y valoran el ocio."
+			}
+		},
+		{
+			"id": "UY",
+			"name": {
+				"en": "Uruguay",
+				"es": "Uruguay"
+			},
+			"description": "ISO 3166-2 code: UY",
+			"dimensiones": {
+				"Distancia de Poder": 61,
+				"Individualismo": 60,
+				"Motivación hacia el Logro": 38,
+				"Evitación de Incertidumbre": 98,
+				"Orientación a Largo Plazo": 28,
+				"Indulgencia": 53
+			},
+			"explicación": {
+				"Distancia de Poder": "Moderada, aceptación de jerarquías en la sociedad.",
+				"Individualismo": "Moderada, valoran la independencia y la responsabilidad individual.",
+				"Motivación hacia el Logro": "Baja, enfoque en la modestia y el consenso.",
+				"Evitación de Incertidumbre": "Muy alta, buscan reglas claras y seguridad.",
+				"Orientación a Largo Plazo": "Baja, preferencia por resultados inmediatos.",
+				"Indulgencia": "Moderada, equilibrio entre necesidad de gratificación y responsabilidades."
+			}
+		},
+		{
+			"id": "VE",
+			"name": {
+				"en": "Venezuela",
+				"es": "Venezuela"
+			},
+			"description": "ISO 3166-2 code: VE",
+			"dimensiones": {
+				"Distancia de Poder": 81,
+				"Individualismo": 26,
+				"Motivación hacia el Logro": 73,
+				"Evitación de Incertidumbre": 76,
+				"Orientación a Largo Plazo": 0,
+				"Indulgencia": 100
+			},
+			"explicación": {
+				"Distancia de Poder": "Alta, aceptación de jerarquías en la sociedad.",
+				"Individualismo": "Bajo, fuerte compromiso con el grupo y la familia.",
+				"Motivación hacia el Logro": "Alta, enfoque en el éxito y la competencia.",
+				"Evitación de Incertidumbre": "Alta, buscan reglas claras y seguridad.",
+				"Orientación a Largo Plazo": "No disponible.",
+				"Indulgencia": "Muy alta, disfrutan de la vida y valoran el ocio."
+			}
+		},
+		{
+			"id": "VN",
+			"name": {
+				"en": "Vietnam",
+				"es": "Vietnam"
+			},
+			"description": "ISO 3166-2 code: VN",
+			"dimensiones": {
+				"Distancia de Poder": 70,
+				"Individualismo": 30,
+				"Motivación hacia el Logro": 40,
+				"Evitación de Incertidumbre": 30,
+				"Orientación a Largo Plazo": 47,
+				"Indulgencia": 35
+			},
+			"explicación": {
+				"Distancia de Poder": "Alta, aceptación de jerarquías en la sociedad.",
+				"Individualismo": "Bajo, fuerte compromiso con el grupo y la familia.",
+				"Motivación hacia el Logro": "Baja, enfoque en la modestia y el consenso.",
+				"Evitación de Incertidumbre": "Baja, cómodos con la ambigüedad.",
+				"Orientación a Largo Plazo": "Moderada, adaptabilidad en la planificación.",
+				"Indulgencia": "Moderada, equilibrio entre necesidad de gratificación y responsabilidades."
+			}
+		},
+		{
+			"id": "ZM",
+			"name": {
+				"en": "Zambia",
+				"es": "Zambia"
+			},
+			"description": "ISO 3166-2 code: ZM",
+			"dimensiones": {
+				"Distancia de Poder": 60,
+				"Individualismo": 35,
+				"Motivación hacia el Logro": 40,
+				"Evitación de Incertidumbre": 50,
+				"Orientación a Largo Plazo": null,
+				"Indulgencia": 30
+			},
+			"explicación": {
+				"Distancia de Poder": "Moderada, aceptación de jerarquías en la sociedad.",
+				"Individualismo": "Bajo, fuerte compromiso con el grupo y la familia.",
+				"Motivación hacia el Logro": "Baja, enfoque en la modestia y el consenso.",
+				"Evitación de Incertidumbre": "Moderada, flexibilidad en la aplicación de normas.",
+				"Orientación a Largo Plazo": "No disponible.",
+				"Indulgencia": "Moderada, equilibrio entre necesidad de gratificación y responsabilidades."
+			}
+		},
+		{
+			"id": "MN",
+			"name": {
+				"en": "Mongolia",
+				"es": "Mongolia"
+			},
+			"description": "ISO 3166-2 code: MN",
+			"dimensiones": {
+				"Distancia de Poder": 93,
+				"Individualismo": 37,
+				"Motivación hacia el Logro": 29,
+				"Evitación de Incertidumbre": 39,
+				"Orientación a Largo Plazo": 50,
+				"Indulgencia": 42
+			},
+			"explicación": {
+				"Distancia de Poder": "Muy alta, aceptación de jerarquías en la sociedad.",
+				"Individualismo": "Moderada, valoran la independencia y la responsabilidad individual.",
+				"Motivación hacia el Logro": "Baja, enfoque en la modestia y el consenso.",
+				"Evitación de Incertidumbre": "Baja, cómodos con la ambigüedad.",
+				"Orientación a Largo Plazo": "Moderada, adaptabilidad en la planificación.",
+				"Indulgencia": "Moderada, equilibrio entre necesidad de gratificación y responsabilidades."
+			}
+		}
+	]
+}
+

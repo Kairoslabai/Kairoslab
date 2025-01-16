@@ -1,0 +1,11 @@
+{
+    "api_keys": {
+        "groq": "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",
+        "jigsawstack": "sk_bb8d6659291390f5abbc2b670f77694941cbbafcf4dc046634bb8e63781030e2a064be7257690c2411797e7d1c5f23180cb5c454a335a30d14787c235d69836b0246zS29thrlZzhf602IA"
+    },
+    "config": {
+        "max_industry_length": 50,
+        "max_product_length": 100,
+        "max_brand_length": 50
+    }
+}

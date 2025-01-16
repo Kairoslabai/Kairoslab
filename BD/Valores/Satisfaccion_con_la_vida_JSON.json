@@ -1,0 +1,1272 @@
+{
+  "Employees": {
+    "Employee": [
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "8;Albania;1998;8;Albania;ALB;339"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "8;Albania;2002;8;Albania;ALB;339"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "8;Albania;2008;8;Albania;ALB;339"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "8;Albania;2018;8;Albania;ALB;339"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "12;Algeria;2002;12;Algeria;DZA;615"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "12;Algeria;2014;12;Algeria;DZA;615"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "20;Andorra;2005;20;Andorra;AND;232"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "20;Andorra;2018;20;Andorra;AND;232"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "31;Azerbaijan;1997;31;Azerbaijan;AZE;373"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "31;Azerbaijan;2011;31;Azerbaijan;AZE;373"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "31;Azerbaijan;2018;31;Azerbaijan;AZE;373"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "32;Argentina;1984;32;Argentina;ARG;160"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "32;Argentina;1991;32;Argentina;ARG;160"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "32;Argentina;1995;32;Argentina;ARG;160"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "32;Argentina;1999;32;Argentina;ARG;160"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "32;Argentina;2006;32;Argentina;ARG;160"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "32;Argentina;2013;32;Argentina;ARG;160"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "32;Argentina;2017;32;Argentina;ARG;160"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "36;Australia;1981;36;Australia;AUS;900"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "36;Australia;1995;36;Australia;AUS;900"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "36;Australia;2005;36;Australia;AUS;900"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "36;Australia;2012;36;Australia;AUS;900"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "36;Australia;2018;36;Australia;AUS;900"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "40;Austria;1990;40;Austria;AUT;305"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "40;Austria;1999;40;Austria;AUT;305"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "40;Austria;2008;40;Austria;AUT;305"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "40;Austria;2018;40;Austria;AUT;305"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "50;Bangladesh;1996;50;Bangladesh;BGD;771"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "50;Bangladesh;2002;50;Bangladesh;BGD;771"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "50;Bangladesh;2018;50;Bangladesh;BGD;771"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "51;Armenia;1997;51;Armenia;ARM;371"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "51;Armenia;2008;51;Armenia;ARM;371"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "51;Armenia;2011;51;Armenia;ARM;371"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "51;Armenia;2018;51;Armenia;ARM;371"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "51;Armenia;2021;51;Armenia;ARM;371"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "56;Belgium;1981;56;Belgium;BEL;211"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "56;Belgium;1990;56;Belgium;BEL;211"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "56;Belgium;1999;56;Belgium;BEL;211"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "56;Belgium;2009;56;Belgium;BEL;211"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "68;Bolivia (Plurinational State of);2017;68;Bolivia;BOL;145"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "70;Bosnia and Herzegovina;1998;70;Bosnia and Herzegovina;BIH;346"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "70;Bosnia and Herzegovina;2001;70;Bosnia and Herzegovina;BIH;346"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "70;Bosnia and Herzegovina;2008;70;Bosnia and Herzegovina;BIH;346"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "70;Bosnia and Herzegovina;2019;70;Bosnia and Herzegovina;BIH;346"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "76;Brazil;1991;76;Brazil;BRA;140"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "76;Brazil;1997;76;Brazil;BRA;140"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "76;Brazil;2006;76;Brazil;BRA;140"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "76;Brazil;2014;76;Brazil;BRA;140"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "76;Brazil;2018;76;Brazil;BRA;140"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "100;Bulgaria;1991;100;Bulgaria;BGR;355"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "100;Bulgaria;1997;100;Bulgaria;BGR;355"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "100;Bulgaria;1999;100;Bulgaria;BGR;355"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "100;Bulgaria;2006;100;Bulgaria;BGR;355"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "100;Bulgaria;2008;100;Bulgaria;BGR;355"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "100;Bulgaria;2017;100;Bulgaria;BGR;355"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "104;Myanmar;2020;104;Myanmar;MMR;775"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "112;Belarus;1996;112;Belarus;BLR;370"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "112;Belarus;2000;112;Belarus;BLR;370"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "112;Belarus;2008;112;Belarus;BLR;370"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "112;Belarus;2011;112;Belarus;BLR;370"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "112;Belarus;2018;112;Belarus;BLR;370"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "124;Canada;1982;124;Canada;CAN;20"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "124;Canada;1990;124;Canada;CAN;20"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "124;Canada;2000;124;Canada;CAN;20"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "124;Canada;2006;124;Canada;CAN;20"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "124;Canada;2020;124;Canada;CAN;20"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "152;Chile;1990;152;Chile;CHL;155"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "152;Chile;1996;152;Chile;CHL;155"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "152;Chile;2000;152;Chile;CHL;155"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "152;Chile;2006;152;Chile;CHL;155"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "152;Chile;2012;152;Chile;CHL;155"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "152;Chile;2018;152;Chile;CHL;155"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "156;China;1990;156;China;CHN;710"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "156;China;1995;156;China;CHN;710"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "156;China;2001;156;China;CHN;710"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "156;China;2007;156;China;CHN;710"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "156;China;2013;156;China;CHN;710"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "156;China;2018;156;China;CHN;710"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "158;Taiwan (Province of China);1998;158;Taiwan;TWN;713"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "158;Taiwan (Province of China);2006;158;Taiwan;TWN;713"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "158;Taiwan (Province of China);2012;158;Taiwan;TWN;713"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "158;Taiwan (Province of China);2019;158;Taiwan;TWN;713"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "170;Colombia;1997;170;Colombia;COL;100"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "170;Colombia;1998;170;Colombia;COL;100"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "170;Colombia;2005;170;Colombia;COL;100"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "170;Colombia;2012;170;Colombia;COL;100"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "170;Colombia;2018;170;Colombia;COL;100"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "191;Croatia;1996;191;Croatia;HRV;344"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "191;Croatia;1999;191;Croatia;HRV;344"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "191;Croatia;2008;191;Croatia;HRV;344"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "191;Croatia;2017;191;Croatia;HRV;344"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "196;Cyprus;2006;196;Cyprus (1975-);CYP;352"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "196;Cyprus;2008;196;Cyprus (1975-);CYP;352"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "196;Cyprus;2011;196;Cyprus (1975-);CYP;352"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "196;Cyprus;2019;196;Cyprus (1975-);CYP;352"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "203;Czechia;1998;203;Czech Republic;CZE;316"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "203;Czechia;1999;203;Czech Republic;CZE;316"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "203;Czechia;2008;203;Czech Republic;CZE;316"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "203;Czechia;2017;203;Czech Republic;CZE;316"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "203;Czechia;2022;203;Czech Republic;CZE;316"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "208;Denmark;1981;208;Denmark;DNK;390"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "208;Denmark;1990;208;Denmark;DNK;390"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "208;Denmark;1999;208;Denmark;DNK;390"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "208;Denmark;2008;208;Denmark;DNK;390"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "208;Denmark;2017;208;Denmark;DNK;390"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "214;Dominican Republic (the);1996;214;Dominican Republic;DOM;42"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "218;Ecuador;2013;218;Ecuador;ECU;130"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "218;Ecuador;2018;218;Ecuador;ECU;130"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "222;El Salvador;1999;222;El Salvador;SLV;92"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "231;Ethiopia;2007;231;Ethiopia (1993-);ETH;530"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "231;Ethiopia;2020;231;Ethiopia (1993-);ETH;530"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "233;Estonia;1996;233;Estonia;EST;366"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "233;Estonia;1999;233;Estonia;EST;366"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "233;Estonia;2008;233;Estonia;EST;366"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "233;Estonia;2011;233;Estonia;EST;366"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "233;Estonia;2018;233;Estonia;EST;366"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "246;Finland;1981;246;Finland;FIN;375"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "246;Finland;1990;246;Finland;FIN;375"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "246;Finland;1996;246;Finland;FIN;375"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "246;Finland;2000;246;Finland;FIN;375"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "246;Finland;2005;246;Finland;FIN;375"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "246;Finland;2009;246;Finland;FIN;375"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "246;Finland;2017;246;Finland;FIN;375"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "250;France;1981;250;France (1963-);FRA;220"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "250;France;1990;250;France (1963-);FRA;220"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "250;France;1999;250;France (1963-);FRA;220"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "250;France;2006;250;France (1963-);FRA;220"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "250;France;2008;250;France (1963-);FRA;220"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "250;France;2018;250;France (1963-);FRA;220"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "268;Georgia;1996;268;Georgia;GEO;372"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "268;Georgia;2008;268;Georgia;GEO;372"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "268;Georgia;2009;268;Georgia;GEO;372"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "268;Georgia;2014;268;Georgia;GEO;372"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "268;Georgia;2018;268;Georgia;GEO;372"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "276;Germany;1997;276;Germany;DEU;255"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "276;Germany;1999;276;Germany;DEU;255"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "276;Germany;2006;276;Germany;DEU;255"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "276;Germany;2008;276;Germany;DEU;255"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "276;Germany;2013;276;Germany;DEU;255"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "276;Germany;2017;276;Germany;DEU;255"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "276;Germany;2018;276;Germany;DEU;255"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "280;Germany;1981;280;Germany"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "280;Germany;1990;280;Germany"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "288;Ghana;2007;288;Ghana;GHA;452"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "288;Ghana;2012;288;Ghana;GHA;452"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "300;Greece;1999;300;Greece;GRC;350"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "300;Greece;2008;300;Greece;GRC;350"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "300;Greece;2017;300;Greece;GRC;350"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "320;Guatemala;2004;320;Guatemala;GTM;90"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "320;Guatemala;2020;320;Guatemala;GTM;90"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "332;Haiti;2016;332;Haiti;HTI;41"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "348;Hungary;1982;348;Hungary;HUN;310"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "348;Hungary;1991;348;Hungary;HUN;310"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "348;Hungary;1998;348;Hungary;HUN;310"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "348;Hungary;1999;348;Hungary;HUN;310"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "348;Hungary;2008;348;Hungary;HUN;310"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "348;Hungary;2009;348;Hungary;HUN;310"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "348;Hungary;2018;348;Hungary;HUN;310"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "352;Iceland;1984;352;Iceland;ISL;395"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "352;Iceland;1990;352;Iceland;ISL;395"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "352;Iceland;1999;352;Iceland;ISL;395"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "352;Iceland;2009;352;Iceland;ISL;395"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "352;Iceland;2017;352;Iceland;ISL;395"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "356;India;1990;356;India;IND;750"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "356;India;1995;356;India;IND;750"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "356;India;2001;356;India;IND;750"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "356;India;2006;356;India;IND;750"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "356;India;2012;356;India;IND;750"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "360;Indonesia;2001;360;Indonesia;IDN;850"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "360;Indonesia;2006;360;Indonesia;IDN;850"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "360;Indonesia;2018;360;Indonesia;IDN;850"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "364;Iran (Islamic Republic of);2000;364;Iran;IRN;630"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "364;Iran (Islamic Republic of);2007;364;Iran;IRN;630"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "364;Iran (Islamic Republic of);2020;364;Iran;IRN;630"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "368;Iraq;2004;368;Iraq;IRQ;645"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "368;Iraq;2006;368;Iraq;IRQ;645"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "368;Iraq;2013;368;Iraq;IRQ;645"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "368;Iraq;2018;368;Iraq;IRQ;645"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "372;Ireland;1981;372;Ireland;IRL;205"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "372;Ireland;1990;372;Ireland;IRL;205"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "372;Ireland;1999;372;Ireland;IRL;205"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "372;Ireland;2008;372;Ireland;IRL;205"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "376;Israel;2001;376;Israel;ISR;666"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "380;Italy;1981;380;Italy;ITA;325"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "380;Italy;1990;380;Italy;ITA;325"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "380;Italy;1999;380;Italy;ITA;325"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "380;Italy;2005;380;Italy;ITA;325"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "380;Italy;2009;380;Italy;ITA;325"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "380;Italy;2018;380;Italy;ITA;325"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "392;Japan;1981;392;Japan;JPN;740"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "392;Japan;1990;392;Japan;JPN;740"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "392;Japan;1995;392;Japan;JPN;740"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "392;Japan;2000;392;Japan;JPN;740"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "392;Japan;2005;392;Japan;JPN;740"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "392;Japan;2010;392;Japan;JPN;740"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "392;Japan;2019;392;Japan;JPN;740"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "398;Kazakhstan;2011;398;Kazakhstan;KAZ;705"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "398;Kazakhstan;2018;398;Kazakhstan;KAZ;705"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "400;Jordan;2001;400;Jordan;JOR;663"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "400;Jordan;2007;400;Jordan;JOR;663"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "400;Jordan;2014;400;Jordan;JOR;663"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "400;Jordan;2018;400;Jordan;JOR;663"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "404;Kenya;2021;404;Kenya;KEN;501"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "410;Korea (the Republic of);1982;410;Korea"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "410;Korea (the Republic of);1990;410;Korea"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "410;Korea (the Republic of);2001;410;Korea"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "410;Korea (the Republic of);2005;410;Korea"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "410;Korea (the Republic of);2010;410;Korea"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "410;Korea (the Republic of);2018;410;Korea"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "414;Kuwait;2014;414;Kuwait;KWT;690"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "417;Kyrgyzstan;2003;417;Kyrgyzstan;KGZ;703"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "417;Kyrgyzstan;2011;417;Kyrgyzstan;KGZ;703"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "417;Kyrgyzstan;2020;417;Kyrgyzstan;KGZ;703"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "422;Lebanon;2013;422;Lebanon;LBN;660"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "422;Lebanon;2018;422;Lebanon;LBN;660"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "428;Latvia;1996;428;Latvia;LVA;367"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "428;Latvia;1999;428;Latvia;LVA;367"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "428;Latvia;2008;428;Latvia;LVA;367"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "428;Latvia;2021;428;Latvia;LVA;367"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "434;Libya;2014;434;Libya;LBY;620"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "434;Libya;2022;434;Libya;LBY;620"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "440;Lithuania;1997;440;Lithuania;LTU;368"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "440;Lithuania;1999;440;Lithuania;LTU;368"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "440;Lithuania;2008;440;Lithuania;LTU;368"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "440;Lithuania;2018;440;Lithuania;LTU;368"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "442;Luxembourg;1999;442;Luxembourg;LUX;212"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "442;Luxembourg;2008;442;Luxembourg;LUX;212"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "458;Malaysia;2006;458;Malaysia (1966-);MYS;820"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "458;Malaysia;2012;458;Malaysia (1966-);MYS;820"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "458;Malaysia;2018;458;Malaysia (1966-);MYS;820"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "462;Maldives;2021;462;Maldives;MDV;781"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "466;Mali;2007;466;Mali;MLI;432"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "470;Malta;1983;470;Malta;MLT;338"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "470;Malta;1991;470;Malta;MLT;338"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "470;Malta;1999;470;Malta;MLT;338"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "470;Malta;2008;470;Malta;MLT;338"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "484;Mexico;1981;484;Mexico;MEX;70"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "484;Mexico;1990;484;Mexico;MEX;70"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "484;Mexico;1996;484;Mexico;MEX;70"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "484;Mexico;2000;484;Mexico;MEX;70"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "484;Mexico;2005;484;Mexico;MEX;70"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "484;Mexico;2012;484;Mexico;MEX;70"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "484;Mexico;2018;484;Mexico;MEX;70"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "496;Mongolia;2020;496;Mongolia;MNG;712"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "498;Moldova (the Republic of);1996;498;Moldova;MDA;359"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "498;Moldova (the Republic of);2002;498;Moldova;MDA;359"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "498;Moldova (the Republic of);2006;498;Moldova;MDA;359"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "498;Moldova (the Republic of);2008;498;Moldova;MDA;359"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "499;Montenegro;2008;499;Montenegro;MNE;341"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "499;Montenegro;2019;499;Montenegro;MNE;341"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "504;Morocco;2001;504;Morocco;MAR;600"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "504;Morocco;2007;504;Morocco;MAR;600"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "504;Morocco;2011;504;Morocco;MAR;600"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "504;Morocco;2021;504;Morocco;MAR;600"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "528;Netherlands (the);1981;528;Netherlands;NLD;210"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "528;Netherlands (the);1990;528;Netherlands;NLD;210"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "528;Netherlands (the);1999;528;Netherlands;NLD;210"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "528;Netherlands (the);2006;528;Netherlands;NLD;210"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "528;Netherlands (the);2008;528;Netherlands;NLD;210"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "528;Netherlands (the);2012;528;Netherlands;NLD;210"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "528;Netherlands (the);2017;528;Netherlands;NLD;210"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "528;Netherlands (the);2022;528;Netherlands;NLD;210"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "554;New Zealand;1998;554;New Zealand;NZL;920"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "554;New Zealand;2004;554;New Zealand;NZL;920"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "554;New Zealand;2011;554;New Zealand;NZL;920"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "554;New Zealand;2020;554;New Zealand;NZL;920"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "558;Nicaragua;2020;558;Nicaragua;NIC;93"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "566;Nigeria;1990;566;Nigeria;NGA;475"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "566;Nigeria;1995;566;Nigeria;NGA;475"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "566;Nigeria;2000;566;Nigeria;NGA;475"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "566;Nigeria;2012;566;Nigeria;NGA;475"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "566;Nigeria;2018;566;Nigeria;NGA;475"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "578;Norway;1982;578;Norway;NOR;385"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "578;Norway;1990;578;Norway;NOR;385"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "578;Norway;1996;578;Norway;NOR;385"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "578;Norway;2007;578;Norway;NOR;385"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "578;Norway;2008;578;Norway;NOR;385"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "578;Norway;2018;578;Norway;NOR;385"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "586;Pakistan;2001;586;Pakistan (1971-);PAK;770"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "586;Pakistan;2012;586;Pakistan (1971-);PAK;770"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "586;Pakistan;2018;586;Pakistan (1971-);PAK;770"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "604;Peru;1996;604;Peru;PER;135"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "604;Peru;2001;604;Peru;PER;135"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "604;Peru;2006;604;Peru;PER;135"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "604;Peru;2012;604;Peru;PER;135"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "604;Peru;2018;604;Peru;PER;135"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "608;Philippines (the);1996;608;Philippines;PHL;840"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "608;Philippines (the);2001;608;Philippines;PHL;840"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "608;Philippines (the);2012;608;Philippines;PHL;840"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "608;Philippines (the);2019;608;Philippines;PHL;840"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "616;Poland;1989;616;Poland;POL;290"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "616;Poland;1990;616;Poland;POL;290"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "616;Poland;1997;616;Poland;POL;290"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "616;Poland;1999;616;Poland;POL;290"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "616;Poland;2005;616;Poland;POL;290"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "616;Poland;2008;616;Poland;POL;290"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "616;Poland;2012;616;Poland;POL;290"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "616;Poland;2017;616;Poland;POL;290"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "620;Portugal;1990;620;Portugal;PRT;235"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "620;Portugal;1999;620;Portugal;PRT;235"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "620;Portugal;2008;620;Portugal;PRT;235"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "620;Portugal;2020;620;Portugal;PRT;235"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "634;Qatar;2010;634;Qatar;QAT;694"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "642;Romania;1993;642;Romania;ROU;360"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "642;Romania;1998;642;Romania;ROU;360"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "642;Romania;1999;642;Romania;ROU;360"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "642;Romania;2005;642;Romania;ROU;360"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "642;Romania;2008;642;Romania;ROU;360"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "642;Romania;2012;642;Romania;ROU;360"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "642;Romania;2018;642;Romania;ROU;360"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "643;Russian Federation (the);1995;643;Russia;RUS;365"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "643;Russian Federation (the);1999;643;Russia;RUS;365"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "643;Russian Federation (the);2006;643;Russia;RUS;365"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "643;Russian Federation (the);2008;643;Russia;RUS;365"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "643;Russian Federation (the);2011;643;Russia;RUS;365"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "643;Russian Federation (the);2017;643;Russia;RUS;365"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "646;Rwanda;2007;646;Rwanda;RWA;517"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "646;Rwanda;2012;646;Rwanda;RWA;517"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "682;Saudi Arabia;2003;682;Saudi Arabia;SAU;670"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "688;Serbia;2006;688;Serbia;SRB;;QoGStdTSjan24;Serbia 2006;SRB06;6"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "688;Serbia;2008;688;Serbia;SRB;;QoGStdTSjan24;Serbia 2008;SRB08;6"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "688;Serbia;2017;688;Serbia;SRB;;QoGStdTSjan24;Serbia 2017;SRB17;6"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "688;Serbia;2018;688;Serbia;SRB;;QoGStdTSjan24;Serbia 2018;SRB18;6"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "702;Singapore;2002;702;Singapore;SGP;830"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "702;Singapore;2012;702;Singapore;SGP;830"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "702;Singapore;2020;702;Singapore;SGP;830"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "703;Slovakia;1998;703;Slovakia;SVK;317"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "703;Slovakia;1999;703;Slovakia;SVK;317"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "703;Slovakia;2008;703;Slovakia;SVK;317"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "703;Slovakia;2017;703;Slovakia;SVK;317"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "703;Slovakia;2022;703;Slovakia;SVK;317"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "704;Viet Nam;2001;704;Vietnam;VNM;816"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "704;Viet Nam;2006;704;Vietnam;VNM;816"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "704;Viet Nam;2020;704;Vietnam;VNM;816"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "705;Slovenia;1992;705;Slovenia;SVN;349"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "705;Slovenia;1995;705;Slovenia;SVN;349"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "705;Slovenia;1999;705;Slovenia;SVN;349"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "705;Slovenia;2005;705;Slovenia;SVN;349"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "705;Slovenia;2008;705;Slovenia;SVN;349"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "705;Slovenia;2011;705;Slovenia;SVN;349"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "705;Slovenia;2017;705;Slovenia;SVN;349"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "710;South Africa;1982;710;South Africa;ZAF;560"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "710;South Africa;1990;710;South Africa;ZAF;560"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "710;South Africa;1996;710;South Africa;ZAF;560"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "710;South Africa;2001;710;South Africa;ZAF;560"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "710;South Africa;2006;710;South Africa;ZAF;560"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "710;South Africa;2013;710;South Africa;ZAF;560"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "716;Zimbabwe;2001;716;Zimbabwe;ZWE;552"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "716;Zimbabwe;2012;716;Zimbabwe;ZWE;552"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "716;Zimbabwe;2020;716;Zimbabwe;ZWE;552"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "724;Spain;1981;724;Spain;ESP;230"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "724;Spain;1990;724;Spain;ESP;230"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "724;Spain;1995;724;Spain;ESP;230"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "724;Spain;1999;724;Spain;ESP;230"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "724;Spain;2000;724;Spain;ESP;230"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "724;Spain;2007;724;Spain;ESP;230"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "724;Spain;2008;724;Spain;ESP;230"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "724;Spain;2011;724;Spain;ESP;230"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "724;Spain;2017;724;Spain;ESP;230"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "752;Sweden;1982;752;Sweden;SWE;380"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "752;Sweden;1990;752;Sweden;SWE;380"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "752;Sweden;1996;752;Sweden;SWE;380"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "752;Sweden;1999;752;Sweden;SWE;380"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "752;Sweden;2006;752;Sweden;SWE;380"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "752;Sweden;2009;752;Sweden;SWE;380"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "752;Sweden;2011;752;Sweden;SWE;380"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "752;Sweden;2017;752;Sweden;SWE;380"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "756;Switzerland;1989;756;Switzerland;CHE;225"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "756;Switzerland;1996;756;Switzerland;CHE;225"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "756;Switzerland;2007;756;Switzerland;CHE;225"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "756;Switzerland;2008;756;Switzerland;CHE;225"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "756;Switzerland;2017;756;Switzerland;CHE;225"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "762;Tajikistan;2020;762;Tajikistan;TJK;702"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "764;Thailand;2007;764;Thailand;THA;800"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "764;Thailand;2013;764;Thailand;THA;800"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "764;Thailand;2018;764;Thailand;THA;800"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "780;Trinidad and Tobago;2006;780;Trinidad and Tobago;TTO;52"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "780;Trinidad and Tobago;2010;780;Trinidad and Tobago;TTO;52"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "788;Tunisia;2013;788;Tunisia;TUN;616"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "788;Tunisia;2019;788;Tunisia;TUN;616"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "792;Turkey;1990;792;Turkey;TUR;640"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "792;Turkey;1996;792;Turkey;TUR;640"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "792;Turkey;2001;792;Turkey;TUR;640"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "792;Turkey;2007;792;Turkey;TUR;640"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "792;Turkey;2009;792;Turkey;TUR;640"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "792;Turkey;2011;792;Turkey;TUR;640"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "792;Turkey;2018;792;Turkey;TUR;640"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "800;Uganda;2001;800;Uganda;UGA;500"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "804;Ukraine;1996;804;Ukraine;UKR;369"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "804;Ukraine;1999;804;Ukraine;UKR;369"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "804;Ukraine;2006;804;Ukraine;UKR;369"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "804;Ukraine;2008;804;Ukraine;UKR;369"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "804;Ukraine;2011;804;Ukraine;UKR;369"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "804;Ukraine;2020;804;Ukraine;UKR;369"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "807;North Macedonia;1998;807;North Macedonia;MKD;343"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "807;North Macedonia;2001;807;North Macedonia;MKD;343"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "807;North Macedonia;2008;807;North Macedonia;MKD;343"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "807;North Macedonia;2019;807;North Macedonia;MKD;343"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "818;Egypt;2001;818;Egypt;EGY;651"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "818;Egypt;2008;818;Egypt;EGY;651"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "818;Egypt;2013;818;Egypt;EGY;651"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "818;Egypt;2018;818;Egypt;EGY;651"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "834;Tanzania"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "840;United States of America (the);1982;840;United States;USA;2"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "840;United States of America (the);1990;840;United States;USA;2"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "840;United States of America (the);1995;840;United States;USA;2"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "840;United States of America (the);1999;840;United States;USA;2"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "840;United States of America (the);2006;840;United States;USA;2"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "840;United States of America (the);2011;840;United States;USA;2"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "840;United States of America (the);2017;840;United States;USA;2"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "854;Burkina Faso;2007;854;Burkina Faso;BFA;439"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "858;Uruguay;1996;858;Uruguay;URY;165"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "858;Uruguay;2006;858;Uruguay;URY;165"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "858;Uruguay;2011;858;Uruguay;URY;165"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "858;Uruguay;2022;858;Uruguay;URY;165"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "860;Uzbekistan;2011;860;Uzbekistan;UZB;704"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "862;Venezuela (Bolivarian Republic of);1996;862;Venezuela;VEN;101"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "862;Venezuela (Bolivarian Republic of);2000;862;Venezuela;VEN;101"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "862;Venezuela (Bolivarian Republic of);2021;862;Venezuela;VEN;101"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "887;Yemen;2014;887;Yemen;YEM;679"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": "894;Zambia;2007;894;Zambia;ZMB;551"
+      },
+      {
+        "ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodealp_year;wvs_satlif": ""
+      }
+    ]
+  }
+}
