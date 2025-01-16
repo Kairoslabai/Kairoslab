@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>KAIROSLAB Dashboard</title>
+  <link rel="stylesheet" href="Style/style_01.css">
+  <link rel="stylesheet" href="Style/styles.css">
+  <link rel="stylesheet" href="Style/style_cultura.css">
+  <link rel="stylesheet" href="Style/grafica.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+</head>
+<body>
+<div class="wrapper">
+  <nav>
+    <header>
+      <span></span>
+      John Doe
+      <a></a>
+    </header>
+    <ul>
+      <li><span>Navigation</span></li>
+      <li><a class="active">Dashboard</a></li>
+      <li><a>Mercados</a></li>
+      <li><a>Ideas 1</a></li>
+      <li><a>Ideas 2</a></li>
+      <li><a>Ideas 3</a></li>
+      <li><a>Ideas 4</a></li>
+      <li><a>FAQ</a></li>
+      <li><span>Other</span></li>
+      <li><a>Search</a></li>
+      <li><a>Settings</a></li>
+      <li><a>Logout</a></li>
+    </ul>
+  </nav>
+  <main>
+    <h1>KAIROSLAB</h1>
+    <div class="flex-grid">
+      <div>
+        <h2>Selección de País</h2>
+        <section>
+          <label for="paises">Selecciona un país:</label>
+          <select id="paises">
+            <option value="">-- Selecciona un país --</option>
+          </select>
+        </section>
+        <!-- Contenedor para la gráfica de radar -->
+        <div id="grafica-container"></div>
+      </div>
+    </div>
+    <div class="flex-grid">
+      <div>
+        <h2>Información Adicional</h2>
+        <p>Aquí puedes agregar más contenido relacionado con el país seleccionado.</p>
+        <!-- Contenedor para la respuesta de Deepseek -->
+        <div id="deepseekResponse">
+           <p>La respuesta del Análisis Aparecerá Aquí.</p>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+<!-- Scripts de amCharts -->
+<script src="PEN_Radial/index.js"></script>
+<script src="PEN_Radial/xy.js"></script>
+<script src="PEN_Radial/radar.js"></script>
+<script src="PEN_Radial/Animated.js"></script>
+<!-- Script de la gráfica -->
+<script src="PEN_Radial/pen55ea.js"></script>
+<!-- Script principal -->
+<script src="JS/scripts.js"></script>
+<!-- Script para la interacción con Deepseek y CORE -->
+<script src="JS/deepseek_interaction.js"></script>
+</body>
+</html>

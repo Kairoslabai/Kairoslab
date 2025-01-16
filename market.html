@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Investigación de Competencia</title>
+    <link rel="stylesheet" href="STYLE/MKTCSS.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Investigación de Competencia</h1>
+        <form id="competitionForm">
+            <label for="industry">Industria:</label>
+            <select id="industry" required>
+                <!-- Las opciones se cargarán dinámicamente desde BD/industrias.json -->
+            </select>
+
+            <!-- Campo de texto para "Otro" -->
+            <div id="otherIndustry">
+                <label for="customIndustry">Especifica la industria:</label>
+                <input type="text" id="customIndustry" placeholder="Ej: Industria de videojuegos">
+            </div>
+
+            <label for="product">Nombre del Producto:</label>
+            <input type="text" id="product" placeholder="Ej: Zapatos deportivos" required>
+
+            <label for="brand">Marca (opcional):</label>
+            <input type="text" id="brand" placeholder="Ej: Nike">
+
+            <button type="submit" id="submitButton">Investigar Competencia</button>
+        </form>
+
+        <div class="result" id="result">
+            <!-- Aquí se mostrarán los resultados -->
+        </div>
+    </div>
+
+    <script src="JS/MKTJS.js"></script>
+</body>
+</html>
